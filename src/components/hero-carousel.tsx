@@ -1,18 +1,13 @@
 "use client";
 
 import { getMediaUrl } from "@/lib/media";
-import { SiteImage } from "@/components/site-image";
 import { useEffect, useRef, useState } from "react";
 
 const slides = [
-  { type: "video", src: "/uploads/2025/10/banner-2.mp4", alt: "Power Tools" },
-  { type: "video", src: "/uploads/2025/10/banner-5.mp4", alt: "Measuring Tools" },
-  { type: "image", src: "/uploads/2025/10/Hand-Tools.gif", alt: "Hand Tools" },
-  {
-    type: "video",
-    src: "/uploads/2025/10/banner-3.mp4",
-    alt: "Electrical Accessories",
-  },
+  { src: "/uploads/2025/10/banner-2.mp4", alt: "Power Tools" },
+  { src: "/uploads/2025/10/banner-5.mp4", alt: "Measuring Tools" },
+  { src: "/uploads/2025/10/HANDTOOLS-V2.mp4", alt: "Hand Tools" },
+  { src: "/uploads/2025/10/banner-3.mp4", alt: "Electrical Accessories" },
 ] as const;
 
 export function HeroCarousel() {
@@ -62,17 +57,7 @@ export function HeroCarousel() {
                   : "pointer-events-none z-0 opacity-0"
               }`}
             >
-              {slide.type === "image" ? (
-                <SiteImage
-                  src={slide.src}
-                  alt={slide.alt}
-                  fill
-                  priority={index === 0}
-                  optimizeWidth={1920}
-                  sizes="100vw"
-                  className="object-contain object-top"
-                />
-              ) : isActive ? (
+              {isActive ? (
                 <video
                   key={mediaSrc}
                   autoPlay
