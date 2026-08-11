@@ -15,8 +15,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"];
     priority: number;
   }> = [
-    { path: "", changeFrequency: "daily", priority: 1 },
-    { path: "/shop", changeFrequency: "daily", priority: 0.95 },
+    { path: "", changeFrequency: "weekly", priority: 1 },
+    { path: "/shop", changeFrequency: "weekly", priority: 0.95 },
     { path: "/about-us", changeFrequency: "monthly", priority: 0.7 },
     { path: "/contact-us", changeFrequency: "monthly", priority: 0.7 },
     { path: "/blog", changeFrequency: "weekly", priority: 0.75 },
@@ -32,7 +32,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...products.map((product) => ({
       url: `${baseUrl}/product/${product.slug}`,
       lastModified: safeDate(product.updatedAt || product.createdAt),
-      changeFrequency: "weekly" as const,
+      changeFrequency: "monthly" as const,
       priority: 0.8,
     })),
     ...categories.map((category) => ({

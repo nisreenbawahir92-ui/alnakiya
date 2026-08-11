@@ -1,37 +1,47 @@
 import { createServerClient } from "@supabase/ssr";
 import { type NextRequest, NextResponse } from "next/server";
+import { isBlockedBot } from "@/lib/bot-filter";
 
 const DEMO_COOKIE = "al_nakiya_demo_admin";
 
+function clearDemo(request: NextRequest, response: NextResponse) {
+  if (request.cookies.has(DEMO_COOKIE)) {
+    response.cookies.set(DEMO_COOKIE, "", {
+      path: "/",
+      maxAge: 0,
+      httpOnly: true,
+      sameSite: "strict",
+    });
+  }
+  return response;
+}
+
 export async function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
+
+  if (isBlockedBot(request.headers.get("user-agent"))) {
+    return new NextResponse("Forbidden", { status: 403 });
+  }
+
   const isDashboard = pathname.startsWith("/dashboard");
   const isLogin = pathname === "/login";
 
+  // Public catalog pages — no Supabase session lookup (saves edge CPU per hit).
+  if (!isDashboard && !isLogin) {
+    return clearDemo(request, NextResponse.next({ request }));
+  }
+
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-
-  // Always strip legacy demo-admin cookie if present.
-  const clearDemo = (response: NextResponse) => {
-    if (request.cookies.has(DEMO_COOKIE)) {
-      response.cookies.set(DEMO_COOKIE, "", {
-        path: "/",
-        maxAge: 0,
-        httpOnly: true,
-        sameSite: "strict",
-      });
-    }
-    return response;
-  };
 
   if (!url || !key) {
     if (isDashboard) {
       const loginUrl = request.nextUrl.clone();
       loginUrl.pathname = "/login";
       loginUrl.searchParams.set("error", "config");
-      return clearDemo(NextResponse.redirect(loginUrl));
+      return clearDemo(request, NextResponse.redirect(loginUrl));
     }
-    return clearDemo(NextResponse.next({ request }));
+    return clearDemo(request, NextResponse.next({ request }));
   }
 
   let response = NextResponse.next({ request });
@@ -59,17 +69,17 @@ export async function proxy(request: NextRequest) {
     const loginUrl = request.nextUrl.clone();
     loginUrl.pathname = "/login";
     loginUrl.search = "";
-    return clearDemo(NextResponse.redirect(loginUrl));
+    return clearDemo(request, NextResponse.redirect(loginUrl));
   }
 
   if (isLogin && isAdmin) {
     const dashboardUrl = request.nextUrl.clone();
     dashboardUrl.pathname = "/dashboard";
     dashboardUrl.search = "";
-    return clearDemo(NextResponse.redirect(dashboardUrl));
+    return clearDemo(request, NextResponse.redirect(dashboardUrl));
   }
 
-  return clearDemo(response);
+  return clearDemo(request, response);
 }
 
 export const config = {

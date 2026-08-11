@@ -1,6 +1,29 @@
 import type { MetadataRoute } from "next";
 import { getSiteUrl } from "@/lib/seo";
 
+const SCRAPER_BOTS = [
+  "AhrefsBot",
+  "SemrushBot",
+  "DotBot",
+  "PetalBot",
+  "Bytespider",
+  "MJ12bot",
+  "BLEXBot",
+  "DataForSeoBot",
+  "GPTBot",
+  "ChatGPT-User",
+  "ClaudeBot",
+  "CCBot",
+  "meta-externalagent",
+  "Applebot-Extended",
+  "ImagesiftBot",
+  "SerpstatBot",
+  "MegaIndex",
+  "Seokicks",
+  "LinkdexBot",
+  "spbot",
+];
+
 export default function robots(): MetadataRoute.Robots {
   const baseUrl = getSiteUrl();
 
@@ -19,10 +42,10 @@ export default function robots(): MetadataRoute.Robots {
           "/api/",
         ],
       },
-      {
-        userAgent: "GPTBot",
-        disallow: ["/dashboard", "/login", "/cart", "/api/"],
-      },
+      ...SCRAPER_BOTS.map((userAgent) => ({
+        userAgent,
+        disallow: ["/"],
+      })),
     ],
     sitemap: `${baseUrl}/sitemap.xml`,
     host: baseUrl,
