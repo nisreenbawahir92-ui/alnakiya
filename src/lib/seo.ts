@@ -30,6 +30,19 @@ export function getSiteUrl() {
   return raw.replace(/\/$/, "");
 }
 
+/** Live public URL for customer-facing links (WhatsApp orders, etc.). Never localhost. */
+export function getPublicSiteUrl() {
+  const configured = process.env.NEXT_PUBLIC_SITE_URL?.trim();
+  if (
+    configured &&
+    !/localhost|127\.0\.0\.1/i.test(configured) &&
+    /^https?:\/\//i.test(configured)
+  ) {
+    return configured.replace(/\/$/, "");
+  }
+  return "https://alnakiyatrading.com";
+}
+
 export function absoluteUrl(path = "/") {
   const base = getSiteUrl();
   if (!path || path === "/") return base;
@@ -37,7 +50,8 @@ export function absoluteUrl(path = "/") {
 }
 
 export function productPageUrl(slug: string) {
-  return absoluteUrl(`/product/${slug}`);
+  const base = getPublicSiteUrl();
+  return `${base}/product/${slug}`;
 }
 
 /** WhatsApp inquiry for a single product (includes clickable product link). */

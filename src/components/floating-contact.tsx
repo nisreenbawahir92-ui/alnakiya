@@ -2,7 +2,7 @@
 
 import { usePathname } from "next/navigation";
 import { ContactIcon } from "@/components/contact-icon";
-import { CALL_PHONE_E164, WHATSAPP_PHONE } from "@/lib/seo";
+import { CALL_PHONE_E164, getPublicSiteUrl, WHATSAPP_PHONE } from "@/lib/seo";
 
 function productNameFromPath(pathname: string) {
   if (!pathname.startsWith("/product/")) return null;
@@ -24,7 +24,7 @@ export function FloatingContact() {
     return null;
   }
   const productName = productNameFromPath(pathname);
-  const pageUrl = `${process.env.NEXT_PUBLIC_SITE_URL ?? "https://alnakiyatrading.com"}${pathname}`;
+  const pageUrl = `${getPublicSiteUrl()}${pathname}`;
   const message = productName
     ? `Hello, I am interested in ${productName}.\nProduct: ${pageUrl}`
     : `Hello Al Nakiya Trading, I would like more information.\nPage: ${pageUrl}`;
