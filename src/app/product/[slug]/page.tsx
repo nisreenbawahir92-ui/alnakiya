@@ -5,7 +5,11 @@ import { notFound } from "next/navigation";
 import { AddToCart } from "@/components/add-to-cart";
 import { ProductCard } from "@/components/product-card";
 import { getProductBySlug, getProducts, getStaticProductParams } from "@/lib/products";
-import { createPageMetadata } from "@/lib/seo";
+import {
+  buildProductWhatsAppMessage,
+  createPageMetadata,
+  WHATSAPP_PHONE,
+} from "@/lib/seo";
 import { safeProductHtml } from "@/lib/safe-html";
 import { decodeHtml, stripHtml } from "@/lib/text";
 
@@ -68,8 +72,13 @@ export default async function ProductPage({ params }: ProductPageProps) {
   const html = safeProductHtml(
     [product.shortDescription, product.description].filter(Boolean).join("\n"),
   );
-  const inquiryUrl = `https://wa.me/971506859158?text=${encodeURIComponent(
-    `Hello, I am interested in ${productName}${product.sku ? ` (SKU: ${product.sku})` : ""}.`,
+  const inquiryUrl = `https://wa.me/${WHATSAPP_PHONE}?text=${encodeURIComponent(
+    buildProductWhatsAppMessage({
+      title: productName,
+      slug: product.slug,
+      sku: product.sku,
+      price: product.price,
+    }),
   )}`;
   const productSchema = {
     "@context": "https://schema.org",

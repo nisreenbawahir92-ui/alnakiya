@@ -36,6 +36,64 @@ export function absoluteUrl(path = "/") {
   return `${base}${path.startsWith("/") ? path : `/${path}`}`;
 }
 
+export function productPageUrl(slug: string) {
+  return absoluteUrl(`/product/${slug}`);
+}
+
+/** WhatsApp inquiry for a single product (includes clickable product link). */
+export function buildProductWhatsAppMessage(options: {
+  title: string;
+  slug: string;
+  sku?: string | null;
+  price?: string | number | null;
+  quantity?: number;
+}) {
+  const link = productPageUrl(options.slug);
+  const qty = options.quantity && options.quantity > 1 ? options.quantity : null;
+  const lines = [
+    "Hello, I would like to order this product:",
+    "",
+    `Product: ${options.title}`,
+    options.sku ? `SKU: ${options.sku}` : null,
+    qty ? `Quantity: ${qty}` : null,
+    options.price != null && options.price !== ""
+      ? `Price: AED ${options.price}`
+      : null,
+    `Link: ${link}`,
+    "",
+    "Please confirm availability and delivery.",
+  ].filter((line): line is string => line !== null);
+
+  return lines.join("\n");
+}
+
+/** WhatsApp cart checkout message (each item includes product link). */
+export function buildCartWhatsAppMessage(
+  items: Array<{
+    title: string;
+    slug: string;
+    quantity: number;
+    price: number;
+  }>,
+  total: number,
+) {
+  const lines = [
+    "Hello, I would like to place an order:",
+    "",
+    ...items.flatMap((item, index) => [
+      `${index + 1}. ${item.title}`,
+      `   Qty: ${item.quantity} × AED ${item.price.toFixed(2)} = AED ${(item.price * item.quantity).toFixed(2)}`,
+      `   Link: ${productPageUrl(item.slug)}`,
+      "",
+    ]),
+    `Total: AED ${total.toFixed(2)}`,
+    "",
+    "Please confirm availability, delivery, and payment.",
+  ];
+
+  return lines.join("\n");
+}
+
 export function truncateMeta(value: string, max = 155) {
   const clean = value.replace(/\s+/g, " ").trim();
   if (clean.length <= max) return clean;

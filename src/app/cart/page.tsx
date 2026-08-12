@@ -4,19 +4,12 @@ import Link from "next/link";
 import { SiteImage } from "@/components/site-image";
 import { useCart } from "@/components/cart-provider";
 import { ContactIcon } from "@/components/contact-icon";
-import { WHATSAPP_PHONE } from "@/lib/seo";
+import { buildCartWhatsAppMessage, WHATSAPP_PHONE } from "@/lib/seo";
 
 export default function CartPage() {
   const { items, total, updateQuantity, removeItem, clear } = useCart();
   const itemCount = items.reduce((sum, item) => sum + item.quantity, 0);
-  const whatsappMessage = [
-    "Hello, I would like to order:",
-    ...items.map(
-      (item) =>
-        `${item.quantity} × ${item.title} — AED ${(item.price * item.quantity).toFixed(2)}`,
-    ),
-    `Total: AED ${total.toFixed(2)}`,
-  ].join("\n");
+  const whatsappMessage = buildCartWhatsAppMessage(items, total);
 
   return (
     <main className="flex-1 bg-[#f7f8f9]">
