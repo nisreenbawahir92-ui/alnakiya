@@ -26,11 +26,6 @@ export async function proxy(request: NextRequest) {
   const isDashboard = pathname.startsWith("/dashboard");
   const isLogin = pathname === "/login";
 
-  // Public catalog pages — no Supabase session lookup (saves edge CPU per hit).
-  if (!isDashboard && !isLogin) {
-    return clearDemo(request, NextResponse.next({ request }));
-  }
-
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const key = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 
@@ -82,8 +77,7 @@ export async function proxy(request: NextRequest) {
   return clearDemo(request, response);
 }
 
+/** Auth only — public catalog must not invoke Edge Middleware (Vercel quota). */
 export const config = {
-  matcher: [
-    "/((?!_next/static|_next/image|favicon.ico|api/catalog|catalog/.*\\.pptx|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp4|pptx)$).*)",
-  ],
+  matcher: ["/dashboard/:path*", "/login"],
 };
