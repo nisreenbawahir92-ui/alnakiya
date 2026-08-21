@@ -16,7 +16,8 @@ function clearDemo(request: NextRequest, response: NextResponse) {
   return response;
 }
 
-export async function proxy(request: NextRequest) {
+/** Edge Middleware — required for Cloudflare OpenNext (Node proxy unsupported). */
+export async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   if (isBlockedBot(request.headers.get("user-agent"))) {
@@ -77,7 +78,7 @@ export async function proxy(request: NextRequest) {
   return clearDemo(request, response);
 }
 
-/** Auth only — public catalog must not invoke Edge Middleware (Vercel quota). */
+/** Auth only — public catalog must not invoke Edge Middleware. */
 export const config = {
   matcher: ["/dashboard/:path*", "/login"],
 };
