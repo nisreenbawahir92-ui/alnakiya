@@ -57,26 +57,54 @@ const bestSellerPosts = [
   },
 ] as const;
 
+function pickFeaturedProducts(
+  catalog: Awaited<ReturnType<typeof getProducts>>,
+  preferredSlugs: string[],
+  count: number,
+) {
+  const picked: typeof catalog = [];
+  const seen = new Set<string>();
+
+  for (const slug of preferredSlugs) {
+    const product = catalog.find((item) => item.slug === slug);
+    if (!product?.image?.url || seen.has(product.id)) continue;
+    picked.push(product);
+    seen.add(product.id);
+    if (picked.length >= count) return picked;
+  }
+
+  for (const product of catalog) {
+    if (!product.image?.url || seen.has(product.id)) continue;
+    picked.push(product);
+    seen.add(product.id);
+    if (picked.length >= count) break;
+  }
+
+  return picked;
+}
+
 export default async function Home() {
   const products = await getProducts();
-  const mostSoldSlugs = [
-    "demoltion-hammer",
-    "demoltion-hammer-2",
-    "rotary-hammer-2",
-    "multifunction-bar-bending-tool",
-  ];
-  const backInStockSlugs = [
-    "cable-cutter",
-    "mini-bolt-cutter-2",
-    "aviation-tin-snip-straight",
-    "hacksaw-frame-with-blade",
-  ];
-  const mostSold = mostSoldSlugs
-    .map((slug) => products.find((product) => product.slug === slug))
-    .filter((product) => product !== undefined);
-  const backInStock = backInStockSlugs
-    .map((slug) => products.find((product) => product.slug === slug))
-    .filter((product) => product !== undefined);
+  const mostSold = pickFeaturedProducts(
+    products,
+    [
+      "demoltion-hammer",
+      "demoltion-hammer-2",
+      "rotary-hammer-2",
+      "multifunction-bar-bending-tool",
+    ],
+    4,
+  );
+  const backInStock = pickFeaturedProducts(
+    products,
+    [
+      "cable-cutter-2",
+      "mini-bolt-cutter",
+      "aviation-tin-snip-straight",
+      "tin-snip-cutter-berent",
+    ],
+    4,
+  );
   return (
     <main className="home-page flex-1 bg-white">
       <HomeEffects />
@@ -258,7 +286,8 @@ export default async function Home() {
           </p>
           <Link
             href="/shop"
-            className="mt-5 inline-block text-base font-semibold text-[#800517] underline-offset-4 hover:underline"
+            prefetch
+            className="relative z-10 mt-5 inline-block text-base font-semibold text-[#800517] underline-offset-4 hover:underline"
           >
             View catalog
           </Link>
@@ -284,7 +313,8 @@ export default async function Home() {
             </p>
             <Link
               href="/shop"
-              className="mt-5 inline-block text-base font-semibold text-[#800517] underline-offset-4 hover:underline"
+              prefetch
+              className="relative z-10 mt-5 inline-block text-base font-semibold text-[#800517] underline-offset-4 hover:underline"
             >
               View all products
             </Link>

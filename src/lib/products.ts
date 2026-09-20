@@ -2,14 +2,34 @@ import { cache } from "react";
 import staticProductData from "@/data/products.json";
 import { normalizeProductMedia } from "@/lib/media";
 import { createPublicClient } from "@/lib/supabase/public";
+import { stripHtml } from "@/lib/text";
 import type { Product, ProductTerm } from "@/types/product";
 
-const staticProducts = (staticProductData as Product[]).map((product) =>
-  normalizeProductMedia(product),
-);
+/** Defer normalize work until first use — avoids Worker cold-start CPU (Error 1102). */
+let staticProductsCache: Product[] | undefined;
+
+function getStaticProducts(): Product[] {
+  if (!staticProductsCache) {
+    staticProductsCache = (staticProductData as Product[]).map((product) =>
+      normalizeProductMedia(product),
+    );
+  }
+  return staticProductsCache;
+}
 
 function withMedia(product: Product): Product {
   return normalizeProductMedia(product);
+}
+
+/** Lean product shape for catalog grids — drops heavy HTML fields from RSC payload. */
+export function toShopListingProduct(product: Product): Product {
+  return {
+    ...product,
+    description: "",
+    shortDescription: stripHtml(product.shortDescription || "").slice(0, 240),
+    gallery: [],
+    attributes: [],
+  };
 }
 
 export type ProductOverride = {
@@ -108,7 +128,7 @@ export async function getAdminStaticProducts() {
     overrides.map((override) => [override.legacy_id, override]),
   );
 
-  return staticProducts.map((baseProduct) => {
+  return getStaticProducts().map((baseProduct) => {
     const override = overrideMap.get(baseProduct.id);
     const product = override
       ? {
@@ -129,12 +149,12 @@ export async function getAdminStaticProducts() {
 
 /** JSON-only params safe for generateStaticParams (no cookies). */
 export function getStaticProductParams() {
-  return staticProducts.map((product) => ({ slug: product.slug }));
+  return getStaticProducts().map((product) => ({ slug: product.slug }));
 }
 
 export function getStaticCategoryParams() {
   const slugs = new Set<string>();
-  for (const product of staticProducts) {
+  for (const product of getStaticProducts()) {
     for (const category of product.categories) {
       slugs.add(category.slug);
     }
@@ -144,7 +164,7 @@ export function getStaticCategoryParams() {
 
 export const getProducts = cache(async (): Promise<Product[]> => {
   const supabase = createPublicClient();
-  if (!supabase) return staticProducts;
+  if (!supabase) return getStaticProducts();
 
   const [{ data, error }, adminStaticProducts] = await Promise.all([
     supabase

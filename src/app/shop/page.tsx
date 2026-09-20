@@ -2,7 +2,11 @@ import type { Metadata } from "next";
 import { Suspense } from "react";
 import { SiteImage } from "@/components/site-image";
 import { ShopCatalog } from "@/components/shop-catalog";
-import { getProductCategories, getProducts } from "@/lib/products";
+import {
+  getProductCategories,
+  getProducts,
+  toShopListingProduct,
+} from "@/lib/products";
 import { createPageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = createPageMetadata({
@@ -22,10 +26,11 @@ export const metadata: Metadata = createPageMetadata({
 export const revalidate = 3600;
 
 export default async function Shop() {
-  const [products, categories] = await Promise.all([
+  const [allProducts, categories] = await Promise.all([
     getProducts(),
     getProductCategories(),
   ]);
+  const products = allProducts.map(toShopListingProduct);
 
   return (
     <main className="flex-1 bg-zinc-50">
