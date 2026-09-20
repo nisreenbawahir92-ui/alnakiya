@@ -1,0 +1,416 @@
+[
+  {
+    "id": "2135",
+    "title": "LONG ARM RIVETER",
+    "slug": "long-arm-riveter",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2025/08/6-1-scaled.jpg",
+    "path": "public/uploads/2025/08/6-1-scaled.jpg",
+    "exists": true
+  },
+  {
+    "id": "2209",
+    "title": "MULTIFUNCTIONAL WIRE STRIPER",
+    "slug": "multifunctional-wire-striper",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/2-6-scaled.jpg",
+    "path": "public/uploads/2025/08/2-6-scaled.jpg",
+    "exists": true
+  },
+  {
+    "id": "2212",
+    "title": "CRIMPING TOOL",
+    "slug": "crimping-tool",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/3-6-scaled.jpg",
+    "path": "public/uploads/2025/08/3-6-scaled.jpg",
+    "exists": true
+  },
+  {
+    "id": "2329",
+    "title": "FILE SET - BERENT",
+    "slug": "file-set-berent",
+    "cat": "Files",
+    "url": "/uploads/2025/08/5-3.jpg",
+    "path": "public/uploads/2025/08/5-3.jpg",
+    "exists": true
+  },
+  {
+    "id": "2477",
+    "title": "LAZY TONGUE RIVETER",
+    "slug": "lazy-tongue-riveter-berent",
+    "cat": "Revit & Gun",
+    "url": "/uploads/2025/08/16.jpg",
+    "path": "public/uploads/2025/08/16.jpg",
+    "exists": true
+  },
+  {
+    "id": "2497",
+    "title": "SOLDERING PASTE",
+    "slug": "soldering-paste-berent",
+    "cat": "Soldering Iron & Accessories",
+    "url": "/uploads/2025/08/22.jpg",
+    "path": "public/uploads/2025/08/22.jpg",
+    "exists": true
+  },
+  {
+    "id": "2510",
+    "title": "RATCHET CRIMPING TOOL",
+    "slug": "ratchet-crimping-tool",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/2-7.jpg",
+    "path": "public/uploads/2025/08/2-7.jpg",
+    "exists": true
+  },
+  {
+    "id": "2530",
+    "title": "REVOLVING PUNCH PLIER",
+    "slug": "revolving-punch-plier-berent",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-26-at-13.45.48.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-26-at-13.45.48.jpeg",
+    "exists": true
+  },
+  {
+    "id": "2533",
+    "title": "LONG ARM RACHET CRIMPING TOOL",
+    "slug": "long-arm-rachet-crimping-tool",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-14.38.24.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-18-at-14.38.24.jpeg",
+    "exists": true
+  },
+  {
+    "id": "2538",
+    "title": "MODULAR PLUG CRIMPING PLIER",
+    "slug": "modular-plug-crimping-plier-berent",
+    "cat": "Crimping & Punching",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-14.41.32-1.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-18-at-14.41.32-1.jpeg",
+    "exists": true
+  },
+  {
+    "id": "2764",
+    "title": "SPRAY GUN WITH BRASS CONNECTOR",
+    "slug": "spray-gun-with-brass-connector-berent",
+    "cat": "Spray Equipment",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-2.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-2.jpeg",
+    "exists": true
+  },
+  {
+    "id": "2768",
+    "title": "3 COLOR SPRAY GUN",
+    "slug": "3-color-spray-gun",
+    "cat": "Spray Equipment",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-3.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-3.jpeg",
+    "exists": true
+  },
+  {
+    "id": "3384",
+    "title": "600 ML AIR SPRAY GUN",
+    "slug": "600-ml-air-spray-gun",
+    "cat": "Spray Equipment",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-4.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-4.jpeg",
+    "exists": true
+  },
+  {
+    "id": "3386",
+    "title": "750 ML AIR SPRAY GUN",
+    "slug": "750-ml-air-spray-gun",
+    "cat": "Spray Equipment",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-1.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-1.jpeg",
+    "exists": true
+  },
+  {
+    "id": "3389",
+    "title": "750 ML AIR SPRAY GUN",
+    "slug": "750-ml-air-spray-gun-2",
+    "cat": "Spray Equipment",
+    "url": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14.jpeg",
+    "path": "public/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14.jpeg",
+    "exists": true
+  },
+  {
+    "id": "3473",
+    "title": "RIVETER 9030",
+    "slug": "riveter-9030",
+    "cat": "Revit & Gun",
+    "url": "/uploads/2025/08/17.jpg",
+    "path": "public/uploads/2025/08/17.jpg",
+    "exists": true
+  },
+  {
+    "id": "3476",
+    "title": "RIVETER 9087",
+    "slug": "riveter-9087",
+    "cat": "Revit & Gun",
+    "url": "/uploads/2025/08/21.jpg",
+    "path": "public/uploads/2025/08/21.jpg",
+    "exists": true
+  },
+  {
+    "id": "3622",
+    "title": "10 PCS HEX KEY SET",
+    "slug": "10-pcs-hex-key-set",
+    "cat": "Hex Key",
+    "url": "/uploads/2025/08/1-3-scaled.jpg",
+    "path": "public/uploads/2025/08/1-3-scaled.jpg",
+    "exists": true
+  },
+  {
+    "id": "4249",
+    "title": "CAULKING GUN",
+    "slug": "caulking-gun",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2026/03/Gun-2-1.jpg",
+    "path": "public/uploads/2026/03/Gun-2-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "4255",
+    "title": "CAULKING GUN HEAVY DUTY",
+    "slug": "caulking-gun-heavy-duty",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2026/03/Gun-8.jpg",
+    "path": "public/uploads/2026/03/Gun-8.jpg",
+    "exists": true
+  },
+  {
+    "id": "4260",
+    "title": "CAULKING GUN HEAVY DUTY",
+    "slug": "caulking-gun-heavy-duty-2",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2026/03/Gun-10.jpg",
+    "path": "public/uploads/2026/03/Gun-10.jpg",
+    "exists": true
+  },
+  {
+    "id": "4265",
+    "title": "CAULKING GUN",
+    "slug": "caulking-gun-2",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2026/03/Gun-13.jpg",
+    "path": "public/uploads/2026/03/Gun-13.jpg",
+    "exists": true
+  },
+  {
+    "id": "4270",
+    "title": "CAULKING GUN SILVER (SAUSAGE)",
+    "slug": "caulking-gun-silver-sausage",
+    "cat": "Caulking Gun",
+    "url": "/uploads/2026/03/Gun-15.jpg",
+    "path": "public/uploads/2026/03/Gun-15.jpg",
+    "exists": true
+  },
+  {
+    "id": "4411",
+    "title": "FLAT FILE",
+    "slug": "flat-file",
+    "cat": "Files",
+    "url": "/uploads/2026/03/File-1.jpg",
+    "path": "public/uploads/2026/03/File-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "4414",
+    "title": "HALF ROUND FILE",
+    "slug": "half-round-file",
+    "cat": "Files",
+    "url": "/uploads/2026/03/File-2.jpg",
+    "path": "public/uploads/2026/03/File-2.jpg",
+    "exists": true
+  },
+  {
+    "id": "4418",
+    "title": "ROUND FILE",
+    "slug": "round-file",
+    "cat": "Files",
+    "url": "/uploads/2026/03/File-4.jpg",
+    "path": "public/uploads/2026/03/File-4.jpg",
+    "exists": true
+  },
+  {
+    "id": "4422",
+    "title": "TRIANGLE FILE",
+    "slug": "triangle-file",
+    "cat": "Files",
+    "url": "/uploads/2026/03/File-5.jpg",
+    "path": "public/uploads/2026/03/File-5.jpg",
+    "exists": true
+  },
+  {
+    "id": "4687",
+    "title": "HEAVY DUTY MINI GLUE GUN",
+    "slug": "heavy-duty-mini-glue-gun",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-1.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "4690",
+    "title": "HOT MELTING GUN",
+    "slug": "hot-melting-gun",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-1.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "4695",
+    "title": "DC GLUE GUN 10W",
+    "slug": "dc-glue-gun-10w",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-4.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-4.jpg",
+    "exists": true
+  },
+  {
+    "id": "4700",
+    "title": "DC GLUE GUN 10W",
+    "slug": "dc-glue-gun-10w-2",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-6.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-6.jpg",
+    "exists": true
+  },
+  {
+    "id": "4704",
+    "title": "GLUE STICK BULK PACKING BIG & SMALL",
+    "slug": "glue-stick-bulk-packing-big-small",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-8.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-8.jpg",
+    "exists": true
+  },
+  {
+    "id": "4709",
+    "title": "GLUE STICK IN BLISTER PACKING BIG & SMALL",
+    "slug": "glue-stick-in-blister-packing-big-small",
+    "cat": "Glue Gun & Sticks",
+    "url": "/uploads/2026/03/Glue-gun-12.jpg",
+    "path": "public/uploads/2026/03/Glue-gun-12.jpg",
+    "exists": true
+  },
+  {
+    "id": "4810",
+    "title": "8PC HEX KEY SET",
+    "slug": "8pc-hex-key-set",
+    "cat": "Hex Key",
+    "url": "/uploads/2026/03/hex-key-1.jpg",
+    "path": "public/uploads/2026/03/hex-key-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "4815",
+    "title": "9PC HEX KEY SET LONG",
+    "slug": "9pc-hex-key-set-long",
+    "cat": "Hex Key",
+    "url": "/uploads/2026/03/hex-key-3.jpg",
+    "path": "public/uploads/2026/03/hex-key-3.jpg",
+    "exists": true
+  },
+  {
+    "id": "4817",
+    "title": "9PC TORX KEY SET",
+    "slug": "9pc-torx-key-set",
+    "cat": "Hex Key",
+    "url": "/uploads/2026/03/hex-key-5.jpg",
+    "path": "public/uploads/2026/03/hex-key-5.jpg",
+    "exists": true
+  },
+  {
+    "id": "4823",
+    "title": "8 PCS FOLDING HEX KEY",
+    "slug": "8-pcs-folding-hex-key",
+    "cat": "Hex Key",
+    "url": "/uploads/2026/03/hex-key-6.jpg",
+    "path": "public/uploads/2026/03/hex-key-6.jpg",
+    "exists": true
+  },
+  {
+    "id": "5315",
+    "title": "COTTON ROPE",
+    "slug": "cotton-rope",
+    "cat": "Ropes",
+    "url": "/uploads/2025/10/Packing-3.jpg",
+    "path": "public/uploads/2025/10/Packing-3.jpg",
+    "exists": true
+  },
+  {
+    "id": "5317",
+    "title": "PP MULTIFILAMENT ROPE",
+    "slug": "pp-multifilament-rope",
+    "cat": "Ropes",
+    "url": "/uploads/2025/10/Packing-5.jpg",
+    "path": "public/uploads/2025/10/Packing-5.jpg",
+    "exists": true
+  },
+  {
+    "id": "5319",
+    "title": "NYLON ROPE PP",
+    "slug": "nylon-rope-pp",
+    "cat": "Ropes",
+    "url": "/uploads/2025/10/Packing-7.jpg",
+    "path": "public/uploads/2025/10/Packing-7.jpg",
+    "exists": true
+  },
+  {
+    "id": "5546",
+    "title": "SOLDER IRON",
+    "slug": "solder-iron",
+    "cat": "Soldering Iron & Accessories",
+    "url": "/uploads/2026/03/soldering-3.jpg",
+    "path": "public/uploads/2026/03/soldering-3.jpg",
+    "exists": true
+  },
+  {
+    "id": "5548",
+    "title": "SOLDER IRON",
+    "slug": "solder-iron-2",
+    "cat": "Soldering Iron & Accessories",
+    "url": "/uploads/2026/03/soldering-2.jpg",
+    "path": "public/uploads/2026/03/soldering-2.jpg",
+    "exists": true
+  },
+  {
+    "id": "5567",
+    "title": "PERMANENT MARKER RED BLACK BLUE",
+    "slug": "permanent-marker-red-black-blue",
+    "cat": "Stationary Items",
+    "url": "/uploads/2026/03/stationary-1.jpg",
+    "path": "public/uploads/2026/03/stationary-1.jpg",
+    "exists": true
+  },
+  {
+    "id": "5569",
+    "title": "PERMANENT MARKER RED BLACK BLUE",
+    "slug": "permanent-marker-red-black-blue-2",
+    "cat": "Stationary Items",
+    "url": "/uploads/2026/03/stationary-2.jpg",
+    "path": "public/uploads/2026/03/stationary-2.jpg",
+    "exists": true
+  },
+  {
+    "id": "5572",
+    "title": "STAPLE 24/6",
+    "slug": "staple-24-6",
+    "cat": "Stationary Items",
+    "url": "/uploads/2026/03/stationary-4.jpg",
+    "path": "public/uploads/2026/03/stationary-4.jpg",
+    "exists": true
+  },
+  {
+    "id": "5574",
+    "title": "STAPLER WITH PIN SET",
+    "slug": "stapler-with-pin-set",
+    "cat": "Stationary Items",
+    "url": "/uploads/2026/03/stationary-5.jpg",
+    "path": "public/uploads/2026/03/stationary-5.jpg",
+    "exists": true
+  }
+]

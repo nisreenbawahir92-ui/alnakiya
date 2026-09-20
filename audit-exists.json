@@ -1,0 +1,722 @@
+[
+  {
+    "slug": "aviation-tin-snip-straight",
+    "title": "AVIATION TIN SNIP STRAIGHT",
+    "image": "/uploads/2025/08/5.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "plastic-tool-box",
+    "title": "PLASTIC TOOL BOX",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-16.17.25.jpeg",
+    "category": "tool-box-bags"
+  },
+  {
+    "slug": "tool-bag",
+    "title": "TOOL BAG",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-14.23.11.jpeg",
+    "category": "tool-box-bags"
+  },
+  {
+    "slug": "welding-helmet",
+    "title": "WELDING HELMET",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-16.17.25-1.jpeg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "measuring-tape",
+    "title": "MEASURING TAPE",
+    "image": "/uploads/2025/08/1-4.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "socket-wrench-set",
+    "title": "SOCKET WRENCH SET",
+    "image": "/uploads/2025/08/2-4.jpg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "vernier-caliper",
+    "title": "VERNIER CALIPER",
+    "image": "/uploads/2025/08/1.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "dust-filter",
+    "title": "DUST FILTER",
+    "image": "/uploads/2025/08/1-5.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "welding-helmet-berent-bt-9093",
+    "title": "WELDING HELMET 9093",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-26-at-12.08.24.jpeg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "steel-megnetic-plumb-bob-berent",
+    "title": "STEEL MEGNETIC PLUMB BOB",
+    "image": "/uploads/2025/08/5-4.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "machinery-measuring-wheel",
+    "title": "MACHINERY MEASURING WHEEL",
+    "image": "/uploads/2025/08/6-1.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "stainless-steel-ruler",
+    "title": "STAINLESS STEEL RULER",
+    "image": "/uploads/2025/08/7-1.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "steel-try-square",
+    "title": "STEEL TRY SQUARE",
+    "image": "/uploads/2025/08/8-1.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "goniometer-berent",
+    "title": "GONIOMETER",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-26-at-12.32.25.jpeg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "tin-snip-cutter-berent",
+    "title": "TIN SNIP CUTTER",
+    "image": "/uploads/2025/08/1011.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "foldable-pruning-saw-berent",
+    "title": "FOLDABLE PRUNING SAW 6026",
+    "image": "/uploads/2025/08/1211.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "scrapper-cutter",
+    "title": "SCRAPPER CUTTER",
+    "image": "/uploads/2025/08/13.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "lazy-tongue-riveter-berent",
+    "title": "LAZY TONGUE RIVETER",
+    "image": "/uploads/2025/08/16.jpg",
+    "category": "revit-gun"
+  },
+  {
+    "slug": "ear-defenders",
+    "title": "EAR DEFENDERS",
+    "image": "/uploads/2025/08/24.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "glass-cutter-berent",
+    "title": "GLASS CUTTER",
+    "image": "/uploads/2025/08/25.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "mini-bolt-cutter",
+    "title": "MINI BOLT CUTTER",
+    "image": "/uploads/2025/08/6-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sq-dr-offset-hand",
+    "title": "SQ Dr OFFSET HAND",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-15.08.28.jpeg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "sq-dr-breaker-bar",
+    "title": "SQ Dr BREAKER BAR",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-15.13.03.jpeg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "sq-dr-sliding-tee-bar",
+    "title": "SQ Dr SLIDING TEE BAR",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-15.13.03-1.jpeg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "extension-rod-berent",
+    "title": "EXTENSION BAR",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-15.13.03-3.jpeg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "spark-plug-wrenche",
+    "title": "SPARK PLUG WRENCHE",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-15.13.03-4.jpeg",
+    "category": "hand-tools"
+  },
+  {
+    "slug": "multi-purpose-scissors-berent",
+    "title": "MULTI PURPOSE SCISSOR BERENT",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-3.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "spray-gun-with-brass-connector-berent",
+    "title": "SPRAY GUN WITH BRASS CONNECTOR",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-2.jpeg",
+    "category": "spray-equipment"
+  },
+  {
+    "slug": "3-color-spray-gun",
+    "title": "3 COLOR SPRAY GUN",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-3.jpeg",
+    "category": "spray-equipment"
+  },
+  {
+    "slug": "digital-caliper",
+    "title": "DIGITAL CALIPER",
+    "image": "/uploads/2025/08/2.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "face-mask",
+    "title": "FACE MASK",
+    "image": "/uploads/2025/09/Mask.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "stainless-steel-scissor-berent",
+    "title": "STAINLESS STEEL SCISSOR 6092",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-2.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "stainless-steel-scissor",
+    "title": "STAINLESS STEEL SCISSOR 6093",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-1.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "600-ml-air-spray-gun",
+    "title": "600 ML AIR SPRAY GUN",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-4.jpeg",
+    "category": "spray-equipment"
+  },
+  {
+    "slug": "750-ml-air-spray-gun",
+    "title": "750 ML AIR SPRAY GUN",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14-1.jpeg",
+    "category": "spray-equipment"
+  },
+  {
+    "slug": "750-ml-air-spray-gun-2",
+    "title": "750 ML AIR SPRAY GUN",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.22.14.jpeg",
+    "category": "spray-equipment"
+  },
+  {
+    "slug": "welding-helmet-9094",
+    "title": "WELDING HELMET 9094",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-26-at-12.08.24-1.jpeg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "riveter-9030",
+    "title": "RIVETER 9030",
+    "image": "/uploads/2025/08/17.jpg",
+    "category": "revit-gun"
+  },
+  {
+    "slug": "riveter-9087",
+    "title": "RIVETER 9087",
+    "image": "/uploads/2025/08/21.jpg",
+    "category": "revit-gun"
+  },
+  {
+    "slug": "glass-wiper-with-360-degree-rotating",
+    "title": "GLASS WIPER WITH 360 DEGREE ROTATING",
+    "image": "/uploads/2026/03/viper-6.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "glass-wiper",
+    "title": "GLASS WIPER",
+    "image": "/uploads/2026/03/viper-4.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "glass-wiper-with-long-handle",
+    "title": "GLASS WIPER WITH LONG HANDLE",
+    "image": "/uploads/2026/03/viper-2.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "normal-toilet-plunger",
+    "title": "NORMAL TOILET PLUNGER",
+    "image": "/uploads/2026/03/sanitary-28.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "one-shot-high-pressure-toilet-plunger",
+    "title": "ONE SHOT HIGH PRESSURE TOILET PLUNGER",
+    "image": "/uploads/2026/03/sanitary-27.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "powerfull-drain-booster-toilet-plunger",
+    "title": "POWERFULL DRAIN BOOSTER TOILET PLUNGER",
+    "image": "/uploads/2026/03/sanitary-26.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "steel-wire-brush",
+    "title": "STEEL WIRE BRUSH",
+    "image": "/uploads/2026/03/Brush-mop-16.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "steel-wire-brush-with-pvc-handle",
+    "title": "STEEL WIRE BRUSH WITH PVC HANDLE",
+    "image": "/uploads/2026/03/Brush-mop-17.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "steel-wire-brush-with-wooden-handle",
+    "title": "STEEL WIRE BRUSH WITH WOODEN HANDLE",
+    "image": "/uploads/2026/03/Brush-mop-13.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "soft-sweeping-brush-with-pvc-coated-wooden-handle",
+    "title": "SOFT SWEEPING BRUSH WITH PVC COATED WOODEN HANDLE",
+    "image": "/uploads/2026/03/Brush-mop-12.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "premium-quality-plastic-hard-broom-for-fine-cleaning-experience",
+    "title": "PREMIUM QUALITY PLASTIC HARD BROOM FOR FINE CLEANING EXPERIENCE",
+    "image": "/uploads/2026/03/Brush-mop-11.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "premium-quality-plastic-hard-broom-for-fine-cleaning-experience-2",
+    "title": "PREMIUM QUALITY PLASTIC HARD BROOM FOR FINE CLEANING EXPERIENCE",
+    "image": "/uploads/2026/03/Brush-mop-9.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "soft-sweeping-brush-with-pvc-coated-wooden-handle-2",
+    "title": "SOFT SWEEPING BRUSH WITH PVC COATED WOODEN HANDLE",
+    "image": "/uploads/2026/03/Brush-mop-6.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "dust-pan-and-brush-set",
+    "title": "DUST PAN AND BRUSH SET",
+    "image": "/uploads/2026/03/Brush-mop-2.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "mop-head-long-shape",
+    "title": "MOP HEAD LONG SHAPE",
+    "image": "/uploads/2026/03/Brush-mop-18.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "mop-head-round-shape",
+    "title": "MOP HEAD ROUND SHAPE",
+    "image": "/uploads/2026/03/Brush-mop-3.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "mop-head-with-stick",
+    "title": "MOP HEAD WITH STICK",
+    "image": "/uploads/2026/03/Brush-mop-1.jpg",
+    "category": "cleaning-products"
+  },
+  {
+    "slug": "cable-cutter-2",
+    "title": "CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-1-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw",
+    "title": "PRUNNING SAW",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.39.26.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-3pcs-with-blade",
+    "title": "UTILITY CUTTER 3PCS WITH BLADE",
+    "image": "/uploads/2026/03/2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "bolt-cutter",
+    "title": "BOLT CUTTER",
+    "image": "/uploads/2026/03/Plier-3-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw-2",
+    "title": "PRUNNING SAW",
+    "image": "/uploads/2026/03/4.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "pincer",
+    "title": "PINCER",
+    "image": "/uploads/2026/03/Plier-5-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "hand-saw",
+    "title": "HAND SAW",
+    "image": "/uploads/2026/03/5.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw-with-wooden-handle",
+    "title": "PRUNNING SAW WITH WOODEN HANDLE",
+    "image": "/uploads/2026/03/6.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "wire-stripper",
+    "title": "WIRE STRIPPER",
+    "image": "/uploads/2026/03/Plier-7-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "concrete-saw",
+    "title": "CONCRETE SAW",
+    "image": "/uploads/2026/03/7.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "diagonal-cutter-ust",
+    "title": "DIAGONAL CUTTER-UST",
+    "image": "/uploads/2026/03/Plier-9-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/8.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter",
+    "title": "UTILITY CUTTER",
+    "image": "/uploads/2026/03/11.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "cable-cutter-3",
+    "title": "CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-10-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "electrical-side-cutting-plier",
+    "title": "ELECTRICAL SIDE CUTTING PLIER",
+    "image": "/uploads/2026/03/Plier-14-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper-10pcs-set",
+    "title": "GLASS SCRAPPER 10PCS SET",
+    "image": "/uploads/2026/03/13.jpg",
+    "category": "uncategorized"
+  },
+  {
+    "slug": "utility-cutter-blade-10pcs",
+    "title": "UTILITY CUTTER BLADE (10PCS)",
+    "image": "/uploads/2026/03/15.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade-10pcs-2",
+    "title": "UTILITY CUTTER BLADE (10PCS)",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.43.03.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "premium-cable-cutter",
+    "title": "PREMIUM CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-19-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "scissors",
+    "title": "SCISSORS",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.40.55.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper-2",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/scrapper-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper-3",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/scrapper-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "steel-pipe-cutter",
+    "title": "STEEL PIPE CUTTER",
+    "image": "/uploads/2026/03/cutter-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-81.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle-2",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-80.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle-3",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-79.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "wall-board-saw",
+    "title": "WALL BOARD SAW",
+    "image": "/uploads/2026/03/30.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "foldable-prunning-saw",
+    "title": "FOLDABLE PRUNNING SAW",
+    "image": "/uploads/2026/03/28.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "hacksaw-frame-with-blade-2",
+    "title": "HACKSAW FRAME WITH BLADE",
+    "image": "/uploads/2026/03/26.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "junior-hacksaw-frame",
+    "title": "JUNIOR HACKSAW FRAME",
+    "image": "/uploads/2026/03/24.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "junior-hacksaw-frame-2",
+    "title": "JUNIOR HACKSAW FRAME",
+    "image": "/uploads/2026/03/23.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade",
+    "title": "UTILITY CUTTER BLADE",
+    "image": "/uploads/2026/03/21.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "diagonal-cutter-black-nickel",
+    "title": "DIAGONAL CUTTER-BLACK NICKEL",
+    "image": "/uploads/2026/03/Plier-25-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade-2",
+    "title": "UTILITY CUTTER BLADE",
+    "image": "/uploads/2026/03/20.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "heavy-duty-mini-glue-gun",
+    "title": "HEAVY DUTY MINI GLUE GUN",
+    "image": "/uploads/2026/03/Glue-gun-1.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "hot-melting-gun",
+    "title": "HOT MELTING GUN",
+    "image": "/uploads/2026/03/Glue-gun-1.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "dc-glue-gun-10w",
+    "title": "DC GLUE GUN 10W",
+    "image": "/uploads/2026/03/Glue-gun-4.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "dc-glue-gun-10w-2",
+    "title": "DC GLUE GUN 10W",
+    "image": "/uploads/2026/03/Glue-gun-6.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "glue-stick-bulk-packing-big-small",
+    "title": "GLUE STICK BULK PACKING BIG & SMALL",
+    "image": "/uploads/2026/03/Glue-gun-10.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "glue-stick-in-blister-packing-big-small",
+    "title": "GLUE STICK IN BLISTER PACKING BIG & SMALL",
+    "image": "/uploads/2026/03/Glue-gun-12.jpg",
+    "category": "glue-gun-sticks"
+  },
+  {
+    "slug": "measuring-tap",
+    "title": "MEASURING TAP",
+    "image": "/uploads/2026/03/Tap-1.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "measuring-tap-2",
+    "title": "MEASURING TAP",
+    "image": "/uploads/2026/03/Tap-3.jpg",
+    "category": "measuring-accessories"
+  },
+  {
+    "slug": "ratchet-set",
+    "title": "RATCHET SET",
+    "image": "/uploads/2026/03/ratchet-1.jpg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "wrench-set",
+    "title": "WRENCH SET",
+    "image": "/uploads/2025/10/ratchet-2.jpg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "ratchet-handle",
+    "title": "RATCHET HANDLE",
+    "image": "/uploads/2026/03/ratchet-4.jpg",
+    "category": "ratchet-socket-set"
+  },
+  {
+    "slug": "cotton-rope",
+    "title": "COTTON ROPE",
+    "image": "/uploads/2025/10/Packing-3.jpg",
+    "category": "ropes"
+  },
+  {
+    "slug": "pp-multifilament-rope",
+    "title": "PP MULTIFILAMENT ROPE",
+    "image": "/uploads/2025/10/Packing-5.jpg",
+    "category": "ropes"
+  },
+  {
+    "slug": "nylon-rope-pp",
+    "title": "NYLON ROPE PP",
+    "image": "/uploads/2025/10/Packing-7.jpg",
+    "category": "ropes"
+  },
+  {
+    "slug": "safety-shoes-hand-made",
+    "title": "SAFETY SHOES HAND MADE",
+    "image": "/uploads/2026/03/safety-2.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "safety-shoes-hand-made-2",
+    "title": "SAFETY SHOES HAND MADE",
+    "image": "/uploads/2026/03/safety-6.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "safety-shoes-hand-made-3",
+    "title": "SAFETY SHOES HAND MADE",
+    "image": "/uploads/2026/03/safety-7.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "suction-lifter",
+    "title": "SUCTION LIFTER",
+    "image": "/uploads/2026/03/lifter-1.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "suction-lifter-2",
+    "title": "SUCTION LIFTER",
+    "image": "/uploads/2026/03/lifter-2.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "suction-lifter-3",
+    "title": "SUCTION LIFTER",
+    "image": "/uploads/2026/03/lifter-4.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "face-guard",
+    "title": "FACE GUARD",
+    "image": "/uploads/2026/03/Tools-13.jpg",
+    "category": "safety-products"
+  },
+  {
+    "slug": "permanent-marker-red-black-blue",
+    "title": "PERMANENT MARKER RED BLACK BLUE",
+    "image": "/uploads/2026/03/stationary-1.jpg",
+    "category": "stationary-items"
+  },
+  {
+    "slug": "permanent-marker-red-black-blue-2",
+    "title": "PERMANENT MARKER RED BLACK BLUE",
+    "image": "/uploads/2026/03/stationary-2.jpg",
+    "category": "stationary-items"
+  },
+  {
+    "slug": "staple-24-6",
+    "title": "STAPLE 24/6",
+    "image": "/uploads/2026/03/stationary-4.jpg",
+    "category": "stationary-items"
+  },
+  {
+    "slug": "stapler-with-pin-set",
+    "title": "STAPLER WITH PIN SET",
+    "image": "/uploads/2026/03/stationary-5.jpg",
+    "category": "stationary-items"
+  },
+  {
+    "slug": "aluminum-tool-box-made-in-turkey",
+    "title": "ALUMINUM TOOL BOX MADE IN TURKEY",
+    "image": "/uploads/2026/03/Tool-box-1.jpg",
+    "category": "tool-box-bags"
+  },
+  {
+    "slug": "5-tray-cantilever-tool-box",
+    "title": "5 TRAY CANTILEVER TOOL BOX",
+    "image": "/uploads/2026/03/Tool-box-3.jpg",
+    "category": "tool-box-bags"
+  },
+  {
+    "slug": "pickaxe-handle-tpr",
+    "title": "PICKAXE HANDLE TPR",
+    "image": "/uploads/2025/09/4-7.jpg",
+    "category": "gardening-suspicious"
+  },
+  {
+    "slug": "garden-rack",
+    "title": "GARDEN RACK",
+    "image": "/uploads/2025/09/13-3.jpg",
+    "category": "gardening-suspicious"
+  },
+  {
+    "slug": "telescopic-tripod-with-zinc-sprinkler",
+    "title": "TELESCOPIC TRIPOD WITH ZINC SPRINKLER",
+    "image": "/uploads/2025/09/Tools-20.jpg",
+    "category": "gardening-suspicious"
+  }
+]

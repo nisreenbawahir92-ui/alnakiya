@@ -1,0 +1,80 @@
+{
+  "removedAt": "2026-09-20T14:04:11.695Z",
+  "before": 456,
+  "after": 448,
+  "count": 8,
+  "items": [
+    {
+      "slug": "face-mask",
+      "title": "FACE MASK",
+      "image": "/uploads/2025/09/Mask.jpg",
+      "categories": [
+        "safety-products"
+      ],
+      "reason": "Face shield/visor, not face mask"
+    },
+    {
+      "slug": "bar-bending-key",
+      "title": "BAR BENDING KEY",
+      "image": "/uploads/2025/09/WhatsApp-Image-2026-02-28-at-19.13.44.jpeg",
+      "categories": [
+        "building-materials"
+      ],
+      "reason": "Basin/meter box key with C-jaw, not bar bending key"
+    },
+    {
+      "slug": "flicker-machine",
+      "title": "FLICKER MACHINE",
+      "image": "/uploads/2026/03/Tools-21.jpg",
+      "categories": [
+        "building-materials"
+      ],
+      "reason": "Chalk line / fish tape reel, not flicker machine"
+    },
+    {
+      "slug": "plumbob-round-in-blister",
+      "title": "PLUMBOB ROUND IN BLISTER",
+      "image": "/uploads/2026/03/bob-1.jpg",
+      "categories": [
+        "building-materials"
+      ],
+      "reason": "Ceiling pull cord switch, not plumb bob"
+    },
+    {
+      "slug": "glass-scrapper-10pcs-set",
+      "title": "GLASS SCRAPPER 10PCS SET",
+      "image": "/uploads/2026/03/13.jpg",
+      "categories": [
+        "uncategorized"
+      ],
+      "reason": "Red plastic tag only, not glass scraper set"
+    },
+    {
+      "slug": "utility-cutter-blade",
+      "title": "UTILITY CUTTER BLADE",
+      "image": "/uploads/2026/03/21.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "Full utility knife, not replacement blade pack"
+    },
+    {
+      "slug": "utility-cutter-blade-2",
+      "title": "UTILITY CUTTER BLADE",
+      "image": "/uploads/2026/03/20.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "Full utility knife, not replacement blades"
+    },
+    {
+      "slug": "sprayer-2",
+      "title": "SPRAYER",
+      "image": "/uploads/2026/03/Gardening-17.jpg",
+      "categories": [
+        "gardening-tools-accessories"
+      ],
+      "reason": "Watering can, not sprayer"
+    }
+  ]
+}

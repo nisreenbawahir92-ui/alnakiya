@@ -1,0 +1,95 @@
+{
+  "before": 488,
+  "after": 477,
+  "removedCount": 11,
+  "removed": [
+    {
+      "slug": "cable-cutter",
+      "title": "CABLE CUTTER",
+      "cats": "Cutting Tools",
+      "image": "/uploads/2025/08/1.jpg",
+      "reason": "Image is VERNIER CALIPER (BERENT), not cable cutter",
+      "shows": "vernier caliper"
+    },
+    {
+      "slug": "mini-bolt-cutter-2",
+      "title": "MINI BOLT CUTTER",
+      "cats": "Cutting Tools",
+      "image": "/uploads/2025/08/2.jpg",
+      "reason": "Image is DIGITAL CALIPER (BERENT), not mini bolt cutter",
+      "shows": "digital caliper"
+    },
+    {
+      "slug": "2g-1-way-switch",
+      "title": "2G 1 WAY SWITCH",
+      "cats": "Switch Socket &amp; Dimmer, GEM Series",
+      "image": "/uploads/2025/09/19-1.jpg",
+      "reason": "Image is holesaw arbor/pilot bit, not switch",
+      "shows": "holesaw arbor"
+    },
+    {
+      "slug": "15a-socket-mg",
+      "title": "15A SOCKET – MG",
+      "cats": "Switch Socket &amp; Dimmer, K Series",
+      "image": "/uploads/2025/09/5.jpg",
+      "reason": "Image is SPEED by EMERALD logo only — no product photo",
+      "shows": "logo only"
+    },
+    {
+      "slug": "13a-2gang-double-socket-with-switch-and-2usb",
+      "title": "13A 2GANG DOUBLE SOCKET WITH SWITCH AND 2USB",
+      "cats": "Switch Socket &amp; Dimmer, K Series",
+      "image": "/uploads/2025/09/12-2.jpg",
+      "reason": "Image is AUGER BITS (EMERALD), not socket",
+      "shows": "auger bits"
+    },
+    {
+      "slug": "fan-dimmer-whitegold",
+      "title": "FAN DIMMER (WHITE+GOLD)",
+      "cats": "Switch Socket &amp; Dimmer, DA Series",
+      "image": "/uploads/2025/09/1.jpg",
+      "reason": "Image is MG logo only — no product photo",
+      "shows": "logo only"
+    },
+    {
+      "slug": "4g-1-way-switch-white-gold",
+      "title": "4G 1 WAY SWITCH (WHITE + GOLD)",
+      "cats": "Switch Socket &amp; Dimmer, DA Series",
+      "image": "/uploads/2025/09/17-1.jpg",
+      "reason": "Image is drill chuck set, not switch",
+      "shows": "drill chuck"
+    },
+    {
+      "slug": "universal-power-extension",
+      "title": "UNIVERSAL POWER EXTENSION",
+      "cats": "Electrical Accessories",
+      "image": "/uploads/2025/09/14-2.jpg",
+      "reason": "Image is UTILITY CUTTER BLADE pack, not extension",
+      "shows": "utility cutter blade"
+    },
+    {
+      "slug": "ceiling-rose",
+      "title": "CEILING ROSE",
+      "cats": "Electrical Accessories",
+      "image": "/uploads/2025/09/8-1.jpg",
+      "reason": "Image is wrecking bar (EMERALD), not ceiling rose",
+      "shows": "wrecking bar"
+    },
+    {
+      "slug": "15a-top-plug",
+      "title": "15A TOP PLUG",
+      "cats": "Electrical Accessories",
+      "image": "/uploads/2025/09/13-2.jpg",
+      "reason": "Image is drill bit set, not plug",
+      "shows": "drill bits"
+    },
+    {
+      "slug": "holesaw-harbour",
+      "title": "HOLESAW HARBOUR",
+      "cats": "Drill Bit &amp; Holesaw",
+      "image": "/uploads/2025/09/17-1.jpg",
+      "reason": "Image is drill chuck set, not holesaw",
+      "shows": "drill chuck"
+    }
+  ]
+}

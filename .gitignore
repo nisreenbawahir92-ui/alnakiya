@@ -68,3 +68,4 @@ next-env.d.ts
 /scripts/.test-bg-output.png
 /public/uploads/2025.zip
 /ppt images/
+_local-backups/

@@ -1,0 +1,164 @@
+{
+  "removedAt": "2026-09-19T17:03:42.804Z",
+  "beforeSession": 473,
+  "after": 456,
+  "count": 17,
+  "items": [
+    {
+      "slug": "hacksaw-frame-with-blade",
+      "title": "HACKSAW FRAME WITH BLADE",
+      "image": "/uploads/2025/08/4.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT pin punch, not hacksaw"
+    },
+    {
+      "slug": "quick-opening-retractable-knife",
+      "title": "QUICK-OPENING RETRACTABLE KNIFE",
+      "image": "/uploads/2025/08/10.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT hand file, not retractable knife"
+    },
+    {
+      "slug": "pvc-pipe-cutter",
+      "title": "PVC PIPE CUTTER",
+      "image": "/uploads/2025/08/8.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT hand file, not PVC pipe cutter"
+    },
+    {
+      "slug": "aviation-tin-snip-left",
+      "title": "AVIATION TIN SNIP LEFT",
+      "image": "/uploads/2025/08/6.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT pin punch, not aviation snip"
+    },
+    {
+      "slug": "aviation-tin-snip-right",
+      "title": "AVIATION TIN SNIP RIGHT",
+      "image": "/uploads/2025/08/3.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "SENSH high-pressure oiler, not aviation snip"
+    },
+    {
+      "slug": "2pc-utility-knife-set",
+      "title": "2PC UTILITY KNIFE SET",
+      "image": "/uploads/2025/08/9.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT hand file, not utility knife set"
+    },
+    {
+      "slug": "13a-multi-socket-with-2usb",
+      "title": "13A MULTI SOCKET WITH 2USB",
+      "image": "/uploads/2025/09/4.jpg",
+      "categories": [
+        "switch-socket-dimmer",
+        "gem-series"
+      ],
+      "reason": "SENSH logo only, no product"
+    },
+    {
+      "slug": "multi-13a-socket-with-switch-and-neon-2",
+      "title": "MULTI 13A SOCKET WITH SWITCH AND NEON",
+      "image": "/uploads/2025/09/6.jpg",
+      "categories": [
+        "switch-socket-dimmer",
+        "gem-series"
+      ],
+      "reason": "Dustpan and brush set, not socket"
+    },
+    {
+      "slug": "45a-cooker-switch-with-neon-3x6-whitegold",
+      "title": "45A COOKER SWITCH WITH NEON 3X6  (WHITE+GOLD)",
+      "image": "/uploads/2025/09/72.jpg",
+      "categories": [
+        "switch-socket-dimmer",
+        "da-series"
+      ],
+      "reason": "Garden hose connector packaging, not cooker switch"
+    },
+    {
+      "slug": "tin-snip-sh-11334-sh-11335",
+      "title": "TIN SNIP SENSH",
+      "image": "/uploads/2025/08/7.jpg",
+      "categories": [
+        "cutting-tools"
+      ],
+      "reason": "BERENT needle file set, not tin snip"
+    },
+    {
+      "slug": "brad-point-drill-bit-set",
+      "title": "BRAD POINT DRILL BIT SET",
+      "image": "/uploads/2025/09/10-3.jpg",
+      "categories": [
+        "drill-bit-holesaw"
+      ],
+      "reason": "Combination drill/screwdriver bit set, not brad-point bits"
+    },
+    {
+      "slug": "l-drop-heavy-duty",
+      "title": "L DROP HEAVY DUTY",
+      "image": "/uploads/2026/03/L-drop-2.jpg",
+      "categories": [
+        "hardware-tool-accessories"
+      ],
+      "reason": "Slide bolt/hasp latch hardware, wrong for L-drop listing"
+    },
+    {
+      "slug": "pvc-floor-grating",
+      "title": "PVC FLOOR GRATING",
+      "image": "/uploads/2026/03/sanitary-11.jpg",
+      "categories": [
+        "sanitary-plumbing"
+      ],
+      "reason": "Electrical mounting/LED frame plate, not PVC floor grating"
+    },
+    {
+      "slug": "garden-rack",
+      "title": "GARDEN RACK",
+      "image": "/uploads/2025/09/13-3.jpg",
+      "categories": [
+        "gardening-tools-accessories"
+      ],
+      "reason": "Floor broom/squeegee, not garden rack"
+    },
+    {
+      "slug": "basin-hook",
+      "title": "BASIN HOOK",
+      "image": "/uploads/2026/03/sanitary-1.jpg",
+      "categories": [
+        "sanitary-plumbing"
+      ],
+      "reason": "Wash basin bolt/plug fixing kit, not basin hooks"
+    },
+    {
+      "slug": "mirror-clip",
+      "title": "MIRROR CLIP",
+      "image": "/uploads/2026/03/sanitary-8.jpg",
+      "categories": [
+        "sanitary-plumbing"
+      ],
+      "reason": "Spring latch/bolt hardware pack, not mirror clips"
+    },
+    {
+      "slug": "aluminum-tool-box-made-in-turkey",
+      "title": "ALUMINUM TOOL BOX MADE IN TURKEY",
+      "image": "/uploads/2026/03/Tool-box-1.jpg",
+      "categories": [
+        "tool-box-bags"
+      ],
+      "reason": "Plastic toolbox labeled 19\" PLASTIC TOOL BOX, not aluminum"
+    }
+  ]
+}

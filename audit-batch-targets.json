@@ -1,0 +1,734 @@
+[
+  {
+    "slug": "aviation-tin-snip-straight",
+    "title": "AVIATION TIN SNIP STRAIGHT",
+    "image": "/uploads/2025/08/5.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "work-lamp-sensh",
+    "title": "WORK LAMP",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-19-at-17.15.47-4.jpeg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "file-set-berent",
+    "title": "FILE SET - BERENT",
+    "image": "/uploads/2025/08/5-3.jpg",
+    "category": "files"
+  },
+  {
+    "slug": "holesaw-kit",
+    "title": "HOLESAW KIT",
+    "image": "/uploads/2025/08/1-3.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "3pcs-hole-saw-set",
+    "title": "3PCS HOLE SAW SET",
+    "image": "/uploads/2025/08/1-6.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "tin-snip-cutter-berent",
+    "title": "TIN SNIP CUTTER",
+    "image": "/uploads/2025/08/1011.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "foldable-pruning-saw-berent",
+    "title": "FOLDABLE PRUNING SAW 6026",
+    "image": "/uploads/2025/08/1211.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "scrapper-cutter",
+    "title": "SCRAPPER CUTTER",
+    "image": "/uploads/2025/08/13.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "work-lamp-9053",
+    "title": "WORK LAMP 9053",
+    "image": "/uploads/2025/08/19.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "glass-cutter-berent",
+    "title": "GLASS CUTTER",
+    "image": "/uploads/2025/08/25.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "mini-bolt-cutter",
+    "title": "MINI BOLT CUTTER",
+    "image": "/uploads/2025/08/6-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "multi-purpose-scissors-berent",
+    "title": "MULTI PURPOSE SCISSOR BERENT",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-3.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "stainless-steel-scissor-berent",
+    "title": "STAINLESS STEEL SCISSOR 6092",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-2.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "stainless-steel-scissor",
+    "title": "STAINLESS STEEL SCISSOR 6093",
+    "image": "/uploads/2025/08/WhatsApp-Image-2025-08-18-at-16.06.42-1.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "3g-2way-switch",
+    "title": "3G 2WAY SWITCH",
+    "image": "/uploads/2025/09/12.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "13a-socket-double-with-switch-and-neon",
+    "title": "13A SOCKET DOUBLE WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/13.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "multi-13a-socket-double-with-switch-and-neon",
+    "title": "MULTI 13A SOCKET DOUBLE WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/19.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "2g-2-way-switch",
+    "title": "2G 2 WAY SWITCH",
+    "image": "/uploads/2025/09/31.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "4g-2-way-switch",
+    "title": "4G 2 WAY SWITCH",
+    "image": "/uploads/2025/09/36.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "multi-13a-socket-with-switch-and-neon",
+    "title": "MULTI 13A SOCKET WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/44.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "fan-dimmer-switch",
+    "title": "FAN DIMMER SWITCH",
+    "image": "/uploads/2025/09/51.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "13a-socket-with-switch-and-neon",
+    "title": "13A SOCKET WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/52.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "20a-dp-switch",
+    "title": "20A DP SWITCH",
+    "image": "/uploads/2025/09/57.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "1g-2-way-switch",
+    "title": "1G 2 WAY SWITCH",
+    "image": "/uploads/2025/09/60.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "multi-13a-socket-with-switch-and-neon-big-button-whitegold",
+    "title": "Multi 13A Socket With Switch And Neon (Big Button) (White+Gold)",
+    "image": "/uploads/2025/09/62.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "45a-dp-switch",
+    "title": "45A DP SWITCH",
+    "image": "/uploads/2025/09/68.jpg",
+    "category": "switch-socket-dimmer,j-series"
+  },
+  {
+    "slug": "4g-1-way-switch",
+    "title": "4G 1 WAY SWITCH",
+    "image": "/uploads/2025/09/11-1.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "multi-13a-socket-double-with-switch-and-neon-2",
+    "title": "MULTI 13A SOCKET DOUBLE WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/22.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "multi-13a-socket-double-with-switch-neon-and-usb-type-c",
+    "title": "MULTI 13A SOCKET DOUBLE WITH SWITCH, NEON AND USB +TYPE C",
+    "image": "/uploads/2025/09/23.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "13a-socket-double-with-switch-and-neon-2",
+    "title": "13A SOCKET DOUBLE WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/26.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "3g-1-way-switch",
+    "title": "3G 1 WAY SWITCH",
+    "image": "/uploads/2025/09/27-1.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "1g-1-way-switch",
+    "title": "1G 1 WAY SWITCH",
+    "image": "/uploads/2025/09/33.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "45a-dp-switch-3x3",
+    "title": "45A DP SWITCH 3X3",
+    "image": "/uploads/2025/09/34.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "20a-dp-switch-2",
+    "title": "20A DP SWITCH",
+    "image": "/uploads/2025/09/38.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "15a-socket-with-switch",
+    "title": "15A SOCKET WITH SWITCH",
+    "image": "/uploads/2025/09/42.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "13a-socket-with-switch-and-neon-2",
+    "title": "13A SOCKET WITH SWITCH AND NEON",
+    "image": "/uploads/2025/09/51-1.jpg",
+    "category": "switch-socket-dimmer,gem-series"
+  },
+  {
+    "slug": "13a-switch-socket-mg",
+    "title": "13A SWITCH SOCKET - MG",
+    "image": "/uploads/2025/09/4-1.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "20a-dp-switch-3",
+    "title": "20A DP SWITCH",
+    "image": "/uploads/2025/09/8.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "45a-dp-switch-3x3-2",
+    "title": "45A DP SWITCH 3X3",
+    "image": "/uploads/2025/09/10.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "1g-switch-mg",
+    "title": "1G SWITCH – MG",
+    "image": "/uploads/2025/09/11-2.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "fan-dimmer-mgc",
+    "title": "FAN DIMMER- MGC",
+    "image": "/uploads/2025/09/28-1.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "bell-push-mg",
+    "title": "BELL PUSH - MG",
+    "image": "/uploads/2025/09/27-2.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "13a-socket-with-switch-and-2usb",
+    "title": "13A SOCKET WITH SWITCH AND 2USB",
+    "image": "/uploads/2025/09/18-1.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "2g-switch-mg",
+    "title": "2G SWITCH – MG",
+    "image": "/uploads/2025/09/16-1.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "4g-switch-mg",
+    "title": "4G SWITCH – MG",
+    "image": "/uploads/2025/09/17.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "13a-switch-socket-universal-mg",
+    "title": "13A SWITCH SOCKET UNIVERSAL  - MG",
+    "image": "/uploads/2025/09/19-2.jpg",
+    "category": "switch-socket-dimmer,k-series"
+  },
+  {
+    "slug": "multi-13a-socket-with-switch-and-neon-usb-c-typewhitegold",
+    "title": "MULTI 13A SOCKET WITH SWITCH AND NEON USB + C TYPE(WHITE+GOLD)",
+    "image": "/uploads/2025/09/13-1.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "multi-13a-socket-with-switch-and-neon-big-button-whitegold-2",
+    "title": "MULTI 13A SOCKET WITH SWITCH AND NEON (BIG BUTTON) (WHITE+GOLD)",
+    "image": "/uploads/2025/09/14-1.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "2g-1-way-switch-white-gold",
+    "title": "2G 1 WAY SWITCH (WHITE + GOLD)",
+    "image": "/uploads/2025/09/22-2.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "multi-13a-socket-double-with-switch-neon-usb-c-type-whitegold",
+    "title": "MULTI 13A SOCKET DOUBLE WITH SWITCH, NEON USB + C TYPE (WHITE+GOLD)",
+    "image": "/uploads/2025/09/29-1.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "andneon-bigbutton-whitegold-multi-13a-socket-double-with-switch",
+    "title": "ANDNEON (BIGBUTTON) (WHITE+GOLD) MULTI 13A SOCKET DOUBLE WITH SWITCH",
+    "image": "/uploads/2025/09/32.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "13a-socket-double-with-switch-and-neon-big-button-whitegold",
+    "title": "13A SOCKET DOUBLE WITH SWITCH AND NEON (BIG BUTTON) (WHITE+GOLD)",
+    "image": "/uploads/2025/09/36-3.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "3g-1-way-switch-white-gold",
+    "title": "3G 1 WAY SWITCH (WHITE + GOLD)",
+    "image": "/uploads/2025/09/41.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "1g-1-way-switch-white-gold",
+    "title": "1G 1 WAY SWITCH (WHITE + GOLD)",
+    "image": "/uploads/2025/09/45-3.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "45a-dp-switch-3x3-3",
+    "title": "45A DP SWITCH 3X3",
+    "image": "/uploads/2025/09/54.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "20a-dp-switch-4",
+    "title": "20A DP SWITCH",
+    "image": "/uploads/2025/09/55.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "blank-plate-3x3-whitegold",
+    "title": "BLANK PLATE 3X3 (WHITE+GOLD)",
+    "image": "/uploads/2025/09/52-2.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "15a-socket-with-switch-and-neon-big-button-whitegold",
+    "title": "15A SOCKET WITH SWITCH AND NEON (BIG BUTTON) (WHITE+GOLD)",
+    "image": "/uploads/2025/09/64-1.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "13a-socket-with-switch-and-neon-big-button-white-gold",
+    "title": "13A SOCKET WITH SWITCH AND NEON (BIG BUTTON) WHITE +GOLD",
+    "image": "/uploads/2025/09/69.jpg",
+    "category": "switch-socket-dimmer,da-series"
+  },
+  {
+    "slug": "pvc-water-proof-box",
+    "title": "PVC WATER PROOF BOX",
+    "image": "/uploads/2025/09/17-2.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "water-proof-db-box",
+    "title": "WATER PROOF DB BOX",
+    "image": "/uploads/2025/09/16-3.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "13a-multi-plug",
+    "title": "13A MULTI PLUG",
+    "image": "/uploads/2025/09/15-2.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "13a-top-plug-with-indicator-mg",
+    "title": "13A TOP PLUG WITH INDICATOR - MG",
+    "image": "/uploads/2025/09/9.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "13a-top-plug",
+    "title": "13A TOP PLUG",
+    "image": "/uploads/2025/09/901.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "13a-top-plug-2",
+    "title": "13A TOP PLUG",
+    "image": "/uploads/2025/09/10-19.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "15a-top-plug-mg",
+    "title": "15A TOP PLUG - MG",
+    "image": "/uploads/2025/09/12-3.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "pvc-box-3x3-mg",
+    "title": "PVC BOX 3X3 - MG",
+    "image": "/uploads/2025/09/4-2.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "pvc-box-6x6-mg",
+    "title": "PVC BOX 6X6 - MG",
+    "image": "/uploads/2025/09/3-2.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "batten-holder-mg",
+    "title": "BATTEN HOLDER - MG",
+    "image": "/uploads/2025/09/5-1.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "pendent-holder-mg",
+    "title": "PENDENT HOLDER - MG",
+    "image": "/uploads/2025/09/6-1.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "angle-holder-mg",
+    "title": "ANGLE HOLDER - MG",
+    "image": "/uploads/2025/09/7.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "cable-cutter-2",
+    "title": "CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-1-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw",
+    "title": "PRUNNING SAW",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.39.26.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-3pcs-with-blade",
+    "title": "UTILITY CUTTER 3PCS WITH BLADE",
+    "image": "/uploads/2026/03/2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "bolt-cutter",
+    "title": "BOLT CUTTER",
+    "image": "/uploads/2026/03/Plier-3-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw-2",
+    "title": "PRUNNING SAW",
+    "image": "/uploads/2026/03/4.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "pincer",
+    "title": "PINCER",
+    "image": "/uploads/2026/03/Plier-5-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "hand-saw",
+    "title": "HAND SAW",
+    "image": "/uploads/2026/03/5.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "prunning-saw-with-wooden-handle",
+    "title": "PRUNNING SAW WITH WOODEN HANDLE",
+    "image": "/uploads/2026/03/6.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "wire-stripper",
+    "title": "WIRE STRIPPER",
+    "image": "/uploads/2026/03/Plier-7-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "concrete-saw",
+    "title": "CONCRETE SAW",
+    "image": "/uploads/2026/03/7.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "diagonal-cutter-ust",
+    "title": "DIAGONAL CUTTER-UST",
+    "image": "/uploads/2026/03/Plier-9-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/8.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter",
+    "title": "UTILITY CUTTER",
+    "image": "/uploads/2026/03/11.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "cable-cutter-3",
+    "title": "CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-10-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "electrical-side-cutting-plier",
+    "title": "ELECTRICAL SIDE CUTTING PLIER",
+    "image": "/uploads/2026/03/Plier-14-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade-10pcs",
+    "title": "UTILITY CUTTER BLADE (10PCS)",
+    "image": "/uploads/2026/03/15.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade-10pcs-2",
+    "title": "UTILITY CUTTER BLADE (10PCS)",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.43.03.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "premium-cable-cutter",
+    "title": "PREMIUM CABLE CUTTER",
+    "image": "/uploads/2026/03/Plier-19-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "scissors",
+    "title": "SCISSORS",
+    "image": "/uploads/2025/09/WhatsApp-Image-2026-04-20-at-09.40.55.jpeg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper-2",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/scrapper-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "glass-scrapper-3",
+    "title": "GLASS SCRAPPER",
+    "image": "/uploads/2026/03/scrapper-1.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "steel-pipe-cutter",
+    "title": "STEEL PIPE CUTTER",
+    "image": "/uploads/2026/03/cutter-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-81.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle-2",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-80.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "sickle-3",
+    "title": "SICKLE",
+    "image": "/uploads/2026/03/Gardening-79.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "wall-board-saw",
+    "title": "WALL BOARD SAW",
+    "image": "/uploads/2026/03/30.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "foldable-prunning-saw",
+    "title": "FOLDABLE PRUNNING SAW",
+    "image": "/uploads/2026/03/28.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "hacksaw-frame-with-blade-2",
+    "title": "HACKSAW FRAME WITH BLADE",
+    "image": "/uploads/2026/03/26.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "junior-hacksaw-frame",
+    "title": "JUNIOR HACKSAW FRAME",
+    "image": "/uploads/2026/03/24.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "junior-hacksaw-frame-2",
+    "title": "JUNIOR HACKSAW FRAME",
+    "image": "/uploads/2026/03/23.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade",
+    "title": "UTILITY CUTTER BLADE",
+    "image": "/uploads/2026/03/21.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "diagonal-cutter-black-nickel",
+    "title": "DIAGONAL CUTTER-BLACK NICKEL",
+    "image": "/uploads/2026/03/Plier-25-2.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "utility-cutter-blade-2",
+    "title": "UTILITY CUTTER BLADE",
+    "image": "/uploads/2026/03/20.jpg",
+    "category": "cutting-tools"
+  },
+  {
+    "slug": "flat-file",
+    "title": "FLAT FILE",
+    "image": "/uploads/2026/03/File-1.jpg",
+    "category": "files"
+  },
+  {
+    "slug": "half-round-file",
+    "title": "HALF ROUND FILE",
+    "image": "/uploads/2026/03/File-2.jpg",
+    "category": "files"
+  },
+  {
+    "slug": "round-file",
+    "title": "ROUND FILE",
+    "image": "/uploads/2026/03/File-4.jpg",
+    "category": "files"
+  },
+  {
+    "slug": "triangle-file",
+    "title": "TRIANGLE FILE",
+    "image": "/uploads/2026/03/File-5.jpg",
+    "category": "files"
+  },
+  {
+    "slug": "booster-cable-3mtr",
+    "title": "BOOSTER CABLE 3MTR",
+    "image": "/uploads/2026/03/booster-1.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "work-lamp",
+    "title": "WORK LAMP",
+    "image": "/uploads/2025/09/light-2-1.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "power-extension-reel",
+    "title": "POWER EXTENSION REEL",
+    "image": "/uploads/2026/03/reel-2.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "power-extension-reel-2",
+    "title": "POWER EXTENSION REEL",
+    "image": "/uploads/2026/03/reel-1.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "pvc-flexible-conduite-pipe",
+    "title": "PVC FLEXIBLE CONDUITE PIPE",
+    "image": "/uploads/2026/03/Tools-5.jpg",
+    "category": "electrical-accessories"
+  },
+  {
+    "slug": "hss-m2-drill-bit",
+    "title": "HSS M2 DRILL BIT",
+    "image": "/uploads/2025/09/1-8.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "double-end-screwdrive-bit",
+    "title": "DOUBLE END SCREWDRIVE BIT",
+    "image": "/uploads/2025/09/4-6.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "combination-drill-bit-set",
+    "title": "COMBINATION DRILL BIT SET",
+    "image": "/uploads/2025/09/13-2.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "drill-bit-set",
+    "title": "DRILL BIT SET",
+    "image": "/uploads/2026/03/Drill-bit-9.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "auger-bit",
+    "title": "AUGER BIT",
+    "image": "/uploads/2025/09/12-2.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "jigsaw-blade",
+    "title": "JIGSAW BLADE",
+    "image": "/uploads/2025/09/14-3.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "jigsaw-blade-2",
+    "title": "JIGSAW BLADE",
+    "image": "/uploads/2025/09/15-3.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "holesaw-harbour-2",
+    "title": "HOLESAW HARBOUR",
+    "image": "/uploads/2025/09/19-1.jpg",
+    "category": "drill-bit-holesaw"
+  },
+  {
+    "slug": "holesaw-harbour-3",
+    "title": "HOLESAW HARBOUR",
+    "image": "/uploads/2025/09/23-1.jpg",
+    "category": "drill-bit-holesaw"
+  }
+]

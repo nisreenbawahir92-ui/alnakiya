@@ -1,0 +1,43 @@
+{
+  "removedAt": "2026-09-19T13:35:41.083Z",
+  "count": 4,
+  "items": [
+    {
+      "slug": "3g-switch-mg",
+      "title": "3G SWITCH – MG",
+      "image": "/uploads/2025/09/22-1.jpg",
+      "categories": [
+        "switch-socket-dimmer",
+        "k-series"
+      ],
+      "reason": "Image is holesaw arbor (EMERALD EA4), not 3G switch"
+    },
+    {
+      "slug": "13a-top-plug-3",
+      "title": "13A TOP PLUG",
+      "image": "/uploads/2025/09/11-3.jpg",
+      "categories": [
+        "electrical-accessories"
+      ],
+      "reason": "Image is EMERALD drill bit set, not 13A top plug"
+    },
+    {
+      "slug": "gi-box-3x3-mg",
+      "title": "GI BOX 3X3 - MG",
+      "image": "/uploads/2025/09/2-2.jpg",
+      "categories": [
+        "electrical-accessories"
+      ],
+      "reason": "Image is mop/cleaning tool (EMERALD), not GI box"
+    },
+    {
+      "slug": "gi-box-6x6-mg",
+      "title": "GI BOX 6X6 - MG",
+      "image": "/uploads/2025/09/2-2.jpg",
+      "categories": [
+        "electrical-accessories"
+      ],
+      "reason": "Same mop image shared with GI BOX 3X3"
+    }
+  ]
+}

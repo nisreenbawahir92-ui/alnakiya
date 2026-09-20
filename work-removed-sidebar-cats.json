@@ -1,0 +1,32 @@
+{
+  "before": 448,
+  "after": 446,
+  "removed": [
+    {
+      "id": "2135",
+      "title": "LONG ARM RIVETER",
+      "slug": "long-arm-riveter",
+      "action": "MOVED",
+      "from": "Caulking Gun",
+      "to": "Revit &amp; Gun",
+      "image": "/uploads/2025/08/6-1-scaled.jpg",
+      "reason": "Correct riveter image but was under Caulking Gun; moved to Revit & Gun"
+    },
+    {
+      "id": "2477",
+      "title": "LAZY TONGUE RIVETER",
+      "slug": "lazy-tongue-riveter-berent",
+      "category": "Revit &amp; Gun",
+      "image": "/uploads/2025/08/16.jpg",
+      "reason": "Title LAZY TONGUE but image is 17\" long-arm lever riveter (BT9028), not lazy-tong"
+    },
+    {
+      "id": "4695",
+      "title": "DC GLUE GUN 10W",
+      "slug": "dc-glue-gun-10w",
+      "category": "Glue Gun &amp; Sticks",
+      "image": "/uploads/2026/03/Glue-gun-4.jpg",
+      "reason": "Title DC GLUE GUN 10W but image is standard EMERALD NO.9171 mini glue gun (no DC/USB)"
+    }
+  ]
+}

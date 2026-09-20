@@ -1,0 +1,648 @@
+{
+  "missingImage": [],
+  "missingFile": [],
+  "sharedSuspicious": [
+    {
+      "url": "/uploads/2025/08/1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "cable-cutter",
+          "title": "CABLE CUTTER",
+          "cats": "cutting-tools"
+        },
+        {
+          "slug": "vernier-caliper",
+          "title": "VERNIER CALIPER",
+          "cats": "measuring-accessories"
+        }
+      ],
+      "minOverlap": 0
+    },
+    {
+      "url": "/uploads/2025/08/2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "mini-bolt-cutter-2",
+          "title": "MINI BOLT CUTTER",
+          "cats": "cutting-tools"
+        },
+        {
+          "slug": "digital-caliper",
+          "title": "DIGITAL CALIPER",
+          "cats": "measuring-accessories"
+        }
+      ],
+      "minOverlap": 0
+    },
+    {
+      "url": "/uploads/2025/09/19-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "2g-1-way-switch",
+          "title": "2G 1 WAY SWITCH",
+          "cats": "switch-socket-dimmer, gem-series"
+        },
+        {
+          "slug": "holesaw-harbour-2",
+          "title": "HOLESAW HARBOUR",
+          "cats": "drill-bit-holesaw"
+        }
+      ],
+      "minOverlap": 0
+    },
+    {
+      "url": "/uploads/2025/09/12-2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "13a-2gang-double-socket-with-switch-and-2usb",
+          "title": "13A 2GANG DOUBLE SOCKET WITH SWITCH AND 2USB",
+          "cats": "switch-socket-dimmer, k-series"
+        },
+        {
+          "slug": "auger-bit",
+          "title": "AUGER BIT",
+          "cats": "drill-bit-holesaw"
+        }
+      ],
+      "minOverlap": 0
+    },
+    {
+      "url": "/uploads/2025/09/17-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "4g-1-way-switch-white-gold",
+          "title": "4G 1 WAY SWITCH (WHITE + GOLD)",
+          "cats": "switch-socket-dimmer, da-series"
+        },
+        {
+          "slug": "holesaw-harbour",
+          "title": "HOLESAW HARBOUR",
+          "cats": "drill-bit-holesaw"
+        }
+      ],
+      "minOverlap": 0
+    },
+    {
+      "url": "/uploads/2025/09/13-2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "15a-top-plug",
+          "title": "15A TOP PLUG",
+          "cats": "electrical-accessories"
+        },
+        {
+          "slug": "combination-drill-bit-set",
+          "title": "COMBINATION DRILL BIT SET",
+          "cats": "drill-bit-holesaw"
+        }
+      ],
+      "minOverlap": 0
+    }
+  ],
+  "shared": [
+    {
+      "url": "/uploads/2025/08/1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "cable-cutter",
+          "title": "CABLE CUTTER",
+          "cats": "cutting-tools"
+        },
+        {
+          "slug": "vernier-caliper",
+          "title": "VERNIER CALIPER",
+          "cats": "measuring-accessories"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/08/2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "mini-bolt-cutter-2",
+          "title": "MINI BOLT CUTTER",
+          "cats": "cutting-tools"
+        },
+        {
+          "slug": "digital-caliper",
+          "title": "DIGITAL CALIPER",
+          "cats": "measuring-accessories"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/09/19-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "2g-1-way-switch",
+          "title": "2G 1 WAY SWITCH",
+          "cats": "switch-socket-dimmer, gem-series"
+        },
+        {
+          "slug": "holesaw-harbour-2",
+          "title": "HOLESAW HARBOUR",
+          "cats": "drill-bit-holesaw"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/09/12-2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "13a-2gang-double-socket-with-switch-and-2usb",
+          "title": "13A 2GANG DOUBLE SOCKET WITH SWITCH AND 2USB",
+          "cats": "switch-socket-dimmer, k-series"
+        },
+        {
+          "slug": "auger-bit",
+          "title": "AUGER BIT",
+          "cats": "drill-bit-holesaw"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/09/17-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "4g-1-way-switch-white-gold",
+          "title": "4G 1 WAY SWITCH (WHITE + GOLD)",
+          "cats": "switch-socket-dimmer, da-series"
+        },
+        {
+          "slug": "holesaw-harbour",
+          "title": "HOLESAW HARBOUR",
+          "cats": "drill-bit-holesaw"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/09/13-2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "15a-top-plug",
+          "title": "15A TOP PLUG",
+          "cats": "electrical-accessories"
+        },
+        {
+          "slug": "combination-drill-bit-set",
+          "title": "COMBINATION DRILL BIT SET",
+          "cats": "drill-bit-holesaw"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2025/09/2-2.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "gi-box-3x3-mg",
+          "title": "GI BOX 3X3 - MG",
+          "cats": "electrical-accessories"
+        },
+        {
+          "slug": "gi-box-6x6-mg",
+          "title": "GI BOX 6X6 - MG",
+          "cats": "electrical-accessories"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2026/03/Glue-gun-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "heavy-duty-mini-glue-gun",
+          "title": "HEAVY DUTY MINI GLUE GUN",
+          "cats": "glue-gun-sticks"
+        },
+        {
+          "slug": "hot-melting-gun",
+          "title": "HOT MELTING GUN",
+          "cats": "glue-gun-sticks"
+        }
+      ]
+    },
+    {
+      "url": "/uploads/2026/03/mixer-1.jpg",
+      "count": 2,
+      "products": [
+        {
+          "slug": "paint-mixer",
+          "title": "PAINT MIXER",
+          "cats": "painting-accessories"
+        },
+        {
+          "slug": "paint-mixer-2",
+          "title": "PAINT MIXER",
+          "cats": "painting-accessories"
+        }
+      ]
+    }
+  ],
+  "nameMismatch": [
+    {
+      "slug": "plastic-tool-box",
+      "title": "PLASTIC TOOL BOX",
+      "file": "WhatsApp-Image-2025-08-19-at-16.17.25.jpeg",
+      "score": 0,
+      "cats": "tool-box-bags"
+    },
+    {
+      "slug": "tool-bag",
+      "title": "TOOL BAG",
+      "file": "WhatsApp-Image-2025-08-19-at-14.23.11.jpeg",
+      "score": 0,
+      "cats": "tool-box-bags"
+    },
+    {
+      "slug": "welding-helmet",
+      "title": "WELDING HELMET",
+      "file": "WhatsApp-Image-2025-08-19-at-16.17.25-1.jpeg",
+      "score": 0,
+      "cats": "safety-products"
+    },
+    {
+      "slug": "circlip-pliers-external-curved",
+      "title": "CIRCLIP PLIERS EXTERNAL CURVED",
+      "file": "5nana-scaled.jpg",
+      "score": 0,
+      "cats": "pliers"
+    },
+    {
+      "slug": "high-pressure-oiler",
+      "title": "HIGH PRESSURE OILER",
+      "file": "WhatsApp-Image-2025-08-19-at-17.15.47.jpeg",
+      "score": 0,
+      "cats": "hardware-tool-accessories"
+    },
+    {
+      "slug": "hand-operated-pump",
+      "title": "HAND OPERATED PUMP",
+      "file": "WhatsApp-Image-2025-08-19-at-17.15.47-1.jpeg",
+      "score": 0,
+      "cats": "hardware-tool-accessories"
+    },
+    {
+      "slug": "y-type-wrench",
+      "title": "Y TYPE WRENCH",
+      "file": "WhatsApp-Image-2025-08-19-at-17.15.47-2.jpeg",
+      "score": 0,
+      "cats": "spanner"
+    },
+    {
+      "slug": "t-socket-wrench",
+      "title": "T SOCKET WRENCH",
+      "file": "WhatsApp-Image-2025-08-19-at-17.15.47-3.jpeg",
+      "score": 0,
+      "cats": "spanner"
+    },
+    {
+      "slug": "work-lamp-sensh",
+      "title": "WORK LAMP",
+      "file": "WhatsApp-Image-2025-08-19-at-17.15.47-4.jpeg",
+      "score": 0,
+      "cats": "electrical-accessories"
+    },
+    {
+      "slug": "welding-helmet-berent-bt-9093",
+      "title": "WELDING HELMET 9093",
+      "file": "WhatsApp-Image-2025-08-26-at-12.08.24.jpeg",
+      "score": 0,
+      "cats": "safety-products"
+    },
+    {
+      "slug": "goniometer-berent",
+      "title": "GONIOMETER",
+      "file": "WhatsApp-Image-2025-08-26-at-12.32.25.jpeg",
+      "score": 0,
+      "cats": "measuring-accessories"
+    },
+    {
+      "slug": "2-in-1-stubby-screw-driver",
+      "title": "2 IN 1 STUBBY SCREW DRIVER",
+      "file": "WhatsApp-Image-2025-08-26-at-12.35.13.jpeg",
+      "score": 0,
+      "cats": "screwdriver-2"
+    },
+    {
+      "slug": "locking-plier-with-soft-grip-berent",
+      "title": "LOCKING PLIER WITH SOFT GRIP",
+      "file": "WhatsApp-Image-2025-08-18-at-14.28.21.jpeg",
+      "score": 0,
+      "cats": "pliers"
+    },
+    {
+      "slug": "revolving-punch-plier-berent",
+      "title": "REVOLVING PUNCH PLIER",
+      "file": "WhatsApp-Image-2025-08-26-at-13.45.48.jpeg",
+      "score": 0,
+      "cats": "crimping-punching"
+    },
+    {
+      "slug": "long-arm-rachet-crimping-tool",
+      "title": "LONG ARM RACHET CRIMPING TOOL",
+      "file": "WhatsApp-Image-2025-08-18-at-14.38.24.jpeg",
+      "score": 0,
+      "cats": "crimping-punching"
+    },
+    {
+      "slug": "lock-sheet-metal-grip-plier-berent",
+      "title": "LOCK SHEET METAL GRIP PLIER",
+      "file": "WhatsApp-Image-2025-08-18-at-14.41.32.jpeg",
+      "score": 0,
+      "cats": "pliers"
+    },
+    {
+      "slug": "modular-plug-crimping-plier-berent",
+      "title": "MODULAR PLUG CRIMPING PLIER",
+      "file": "WhatsApp-Image-2025-08-18-at-14.41.32-1.jpeg",
+      "score": 0,
+      "cats": "crimping-punching"
+    },
+    {
+      "slug": "sq-dr-offset-hand",
+      "title": "SQ Dr OFFSET HAND",
+      "file": "WhatsApp-Image-2025-08-18-at-15.08.28.jpeg",
+      "score": 0,
+      "cats": "ratchet-socket-set"
+    },
+    {
+      "slug": "sq-dr-breaker-bar",
+      "title": "SQ Dr BREAKER BAR",
+      "file": "WhatsApp-Image-2025-08-18-at-15.13.03.jpeg",
+      "score": 0,
+      "cats": "ratchet-socket-set"
+    },
+    {
+      "slug": "sq-dr-sliding-tee-bar",
+      "title": "SQ Dr SLIDING TEE BAR",
+      "file": "WhatsApp-Image-2025-08-18-at-15.13.03-1.jpeg",
+      "score": 0,
+      "cats": "ratchet-socket-set"
+    },
+    {
+      "slug": "extension-rod-berent",
+      "title": "EXTENSION BAR",
+      "file": "WhatsApp-Image-2025-08-18-at-15.13.03-3.jpeg",
+      "score": 0,
+      "cats": "ratchet-socket-set"
+    },
+    {
+      "slug": "spark-plug-wrenche",
+      "title": "SPARK PLUG WRENCHE",
+      "file": "WhatsApp-Image-2025-08-18-at-15.13.03-4.jpeg",
+      "score": 0,
+      "cats": "hand-tools"
+    },
+    {
+      "slug": "aviation-sniper-straight",
+      "title": "AVIATION SNIPER STRAIGHT",
+      "file": "WhatsApp-Image-2025-08-18-at-16.06.42.jpeg",
+      "score": 0,
+      "cats": "pliers"
+    },
+    {
+      "slug": "multi-purpose-scissors-berent",
+      "title": "MULTI PURPOSE SCISSOR BERENT",
+      "file": "WhatsApp-Image-2025-08-18-at-16.06.42-3.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "spray-gun-with-brass-connector-berent",
+      "title": "SPRAY GUN WITH BRASS CONNECTOR",
+      "file": "WhatsApp-Image-2025-08-19-at-17.22.14-2.jpeg",
+      "score": 0,
+      "cats": "spray-equipment"
+    },
+    {
+      "slug": "3-color-spray-gun",
+      "title": "3 COLOR SPRAY GUN",
+      "file": "WhatsApp-Image-2025-08-19-at-17.22.14-3.jpeg",
+      "score": 0,
+      "cats": "spray-equipment"
+    },
+    {
+      "slug": "stainless-steel-scissor-berent",
+      "title": "STAINLESS STEEL SCISSOR 6092",
+      "file": "WhatsApp-Image-2025-08-18-at-16.06.42-2.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "stainless-steel-scissor",
+      "title": "STAINLESS STEEL SCISSOR 6093",
+      "file": "WhatsApp-Image-2025-08-18-at-16.06.42-1.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "600-ml-air-spray-gun",
+      "title": "600 ML AIR SPRAY GUN",
+      "file": "WhatsApp-Image-2025-08-19-at-17.22.14-4.jpeg",
+      "score": 0,
+      "cats": "spray-equipment"
+    },
+    {
+      "slug": "750-ml-air-spray-gun",
+      "title": "750 ML AIR SPRAY GUN",
+      "file": "WhatsApp-Image-2025-08-19-at-17.22.14-1.jpeg",
+      "score": 0,
+      "cats": "spray-equipment"
+    },
+    {
+      "slug": "750-ml-air-spray-gun-2",
+      "title": "750 ML AIR SPRAY GUN",
+      "file": "WhatsApp-Image-2025-08-19-at-17.22.14.jpeg",
+      "score": 0,
+      "cats": "spray-equipment"
+    },
+    {
+      "slug": "welding-helmet-9094",
+      "title": "WELDING HELMET 9094",
+      "file": "WhatsApp-Image-2025-08-26-at-12.08.24-1.jpeg",
+      "score": 0,
+      "cats": "safety-products"
+    },
+    {
+      "slug": "multifunction-bar-bending-tool",
+      "title": "MULTIFUNCTION BAR BENDING TOOL",
+      "file": "WhatsApp-Image-2026-02-28-at-19.07.26.jpeg",
+      "score": 0,
+      "cats": "building-materials"
+    },
+    {
+      "slug": "bar-bending-plate",
+      "title": "BAR BENDING PLATE",
+      "file": "WhatsApp-Image-2026-02-28-at-19.16.30.jpeg",
+      "score": 0,
+      "cats": "building-materials"
+    },
+    {
+      "slug": "bar-bending-key",
+      "title": "BAR BENDING KEY",
+      "file": "WhatsApp-Image-2026-02-28-at-19.13.44.jpeg",
+      "score": 0,
+      "cats": "building-materials"
+    },
+    {
+      "slug": "d-handle-aluminum",
+      "title": "D HANDLE ALUMINUM",
+      "file": "WhatsApp-Image-2026-04-20-at-08.45.42.jpeg",
+      "score": 0,
+      "cats": "building-materials"
+    },
+    {
+      "slug": "premium-quality-plastic-hard-broom-for-fine-cleaning-experience",
+      "title": "PREMIUM QUALITY PLASTIC HARD BROOM FOR FINE CLEANING EXPERIENCE",
+      "file": "Brush-mop-11.jpg",
+      "score": 0,
+      "cats": "cleaning-products"
+    },
+    {
+      "slug": "premium-quality-plastic-hard-broom-for-fine-cleaning-experience-2",
+      "title": "PREMIUM QUALITY PLASTIC HARD BROOM FOR FINE CLEANING EXPERIENCE",
+      "file": "Brush-mop-9.jpg",
+      "score": 0,
+      "cats": "cleaning-products"
+    },
+    {
+      "slug": "prunning-saw",
+      "title": "PRUNNING SAW",
+      "file": "WhatsApp-Image-2026-04-20-at-09.39.26.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "utility-cutter-blade-10pcs-2",
+      "title": "UTILITY CUTTER BLADE (10PCS)",
+      "file": "WhatsApp-Image-2026-04-20-at-09.43.03.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "scissors",
+      "title": "SCISSORS",
+      "file": "WhatsApp-Image-2026-04-20-at-09.40.55.jpeg",
+      "score": 0,
+      "cats": "cutting-tools"
+    },
+    {
+      "slug": "heat-gun",
+      "title": "HEAT GUN",
+      "file": "powe-tool-1.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "rotary-hammer",
+      "title": "ROTARY HAMMER",
+      "file": "powe-tool-4.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "inflator",
+      "title": "INFLATOR",
+      "file": "powe-tool-5.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "demoltion-hammer",
+      "title": "DEMOLTION HAMMER",
+      "file": "powe-tool-6.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "impact-drill",
+      "title": "IMPACT DRILL",
+      "file": "powe-tool-7.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "demoltion-hammer-2",
+      "title": "DEMOLTION HAMMER",
+      "file": "powe-tool-8.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "cordless-drill-21v-with-2-battery",
+      "title": "CORDLESS DRILL 21V WITH 2 BATTERY",
+      "file": "powe-tool-9.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "cordless-drill-21v",
+      "title": "CORDLESS DRILL 21V",
+      "file": "powe-tool-11.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "electric-blower-black",
+      "title": "ELECTRIC BLOWER BLACK",
+      "file": "powe-tool-12.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "electric-blower-red",
+      "title": "ELECTRIC BLOWER RED",
+      "file": "powe-tool-13.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "angle-grinder",
+      "title": "ANGLE GRINDER",
+      "file": "powe-tool-16.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "electric-blower-yellow",
+      "title": "ELECTRIC BLOWER YELLOW",
+      "file": "powe-tool-14.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "angle-grinder-4-5",
+      "title": "ANGLE GRINDER 4.5\"",
+      "file": "powe-tool-18.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "rotary-hammer-2",
+      "title": "ROTARY HAMMER",
+      "file": "powe-tool-3.jpg",
+      "score": 0,
+      "cats": "power-tool"
+    },
+    {
+      "slug": "double-open-end-spanner",
+      "title": "DOUBLE OPEN END SPANNER",
+      "file": "Nakiya-products.jpg",
+      "score": 0,
+      "cats": "spanner"
+    }
+  ]
+}
